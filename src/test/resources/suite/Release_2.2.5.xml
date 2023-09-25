@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Vendas" verbose="1" >
+
+  <test name="login"   >
+    <packages>
+      <package name="login" />
+   </packages>
+ </test>
+ 
+ <test name="home">
+    <packages>
+      <package name="home" />
+   </packages>
+ </test>
+ 
+  <test name="vendas">
+    <packages>
+      <package name="vendas" />
+   </packages>
+ </test>
+ 
+   <test name="login">
+     <classes>
+      <class name="login.Autenticar"/>
+    </classes>
+ </test>
+ 
+ 
+</suite>

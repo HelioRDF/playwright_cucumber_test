@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Vendas" verbose="1" >
+
+  <test name="login"   >
+    <packages>
+      <package name="login" />
+   </packages>
+ </test>
+ 
+
+ 
+ 
+</suite>
