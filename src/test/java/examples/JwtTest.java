@@ -33,6 +33,7 @@ public class JwtTest {
 
 	@Test
 	void loginCliente() {
+		login.setContext();
 		login.acessarUrl("https://react-redux.realworld.io/#/login");
 		login.informarUsuarioInputType("email", "alanvoigt@yahoo.com.br");
 		login.informarSenhaInputType("password", "test123");
@@ -42,7 +43,7 @@ public class JwtTest {
 	
 	@Test
 	void loginCliente2() {
-		login.contextJwt2();
+		login.setContextJwt();
 		login.acessarUrl("https://react-redux.realworld.io");
 
 	}

@@ -21,8 +21,26 @@ public class Control {
 	public Control() {
 		playwright = Playwright.create();
 		browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+		
+	}
+	public void setContext() {
 		context = browser.newContext();
 		page = context.newPage();
+		
+		
+	}
+	
+	// CPF ou CNPJ
+	public void setContextJwt() {
+		String storageStateJson = null;
+		try {
+			storageStateJson = new String(Files.readAllBytes(Paths.get("./jwt/state_alanvoigt.json")));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		context = browser.newContext(new Browser.NewContextOptions().setStorageState(storageStateJson));
+		page = context.newPage();
+	
 	}
 
 	public void fecharPlaywright() {
@@ -78,17 +96,7 @@ public class Control {
 
 	}
 
-	// CPF ou CNPJ
-	public void contextJwt2() {
-		String storageStateJson = null;
-		try {
-			storageStateJson = new String(Files.readAllBytes(Paths.get("./jwt/state_alanvoigt.json")));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		context = browser.newContext(new Browser.NewContextOptions().setStorageState(storageStateJson));
-	}
 
-	// Load the saved storage state
+
 
 }
