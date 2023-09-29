@@ -11,12 +11,14 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 		snippets=SnippetType.CAMELCASE,
 		dryRun = false,
 		glue = "steps",
-		features = "src/test/resources/",
-		tags = "(@CT02) ",
+		features = "src/test/resources/features",
+		tags = "@Login or @Cadastro or @Vendas",
+		//tags = "(@CT02 or @CT01) ",
+		//name = "Realizar login com sucesso",
 		
 	    plugin = {	
 	                "pretty",
-	                "html:target/cucumber-reports/cucumber-pretty.html",
+	                "html:target/cucumber-reports/cucumber-report.html",
 	                "json:target/cucumber-reports/CucumberTestReport.json",
 	                "timeline:target/test-output-thread/"
 	    })

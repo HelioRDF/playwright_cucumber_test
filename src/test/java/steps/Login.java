@@ -4,6 +4,8 @@ package steps;
 
 import static org.junit.Assert.assertTrue;
 
+import org.junit.Test;
+
 import io.cucumber.java.pt.Dado;
 import io.cucumber.java.pt.Então;
 import io.cucumber.java.pt.Quando;
@@ -29,7 +31,8 @@ public class Login {
 	public void clico_em_entrar() {
 		assertTrue(true);
 	}
-
+	
+	@Test
 	@Então("é redirecionado para página home")
 	public void é_redirecionado_para_página_home() {
 		assertTrue(true);

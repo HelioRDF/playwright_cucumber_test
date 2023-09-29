@@ -34,6 +34,12 @@ public class Login {
 		page.navigate("https://fdbidpl-tst1.outsystemsenterprise.com");
 		page.waitForTimeout(3000);
 
+	}	
+	public void acessarUrl(String url) {
+		page.setViewportSize(1850, 900);
+		page.navigate(url);
+		page.waitForTimeout(3000);
+
 	}
 
 	// CPF ou CNPJ

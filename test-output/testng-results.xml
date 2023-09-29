@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T07:43:45 BRT" name="Default suite" finished-at="2023-09-29T07:43:56 BRT" duration-ms="10540">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T07:43:45 BRT" name="Default test" finished-at="2023-09-29T07:43:56 BRT" duration-ms="10540">
+      <class name="examples.JwtTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:examples.JwtTest@f5acb9d]" started-at="2023-09-29T07:43:45 BRT" name="launchBrowser" finished-at="2023-09-29T07:43:49 BRT" duration-ms="4239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createContextAndPage()[pri:0, instance:examples.JwtTest@f5acb9d]" started-at="2023-09-29T07:43:49 BRT" name="createContextAndPage" finished-at="2023-09-29T07:43:49 BRT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContextAndPage -->
+        <test-method signature="loginCliente2()[pri:0, instance:examples.JwtTest@f5acb9d]" started-at="2023-09-29T07:43:49 BRT" name="loginCliente2" finished-at="2023-09-29T07:43:56 BRT" duration-ms="6115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCliente2 -->
+        <test-method is-config="true" signature="closeContext()[pri:0, instance:examples.JwtTest@f5acb9d]" started-at="2023-09-29T07:43:56 BRT" name="closeContext" finished-at="2023-09-29T07:43:56 BRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeContext -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:examples.JwtTest@f5acb9d]" started-at="2023-09-29T07:43:56 BRT" name="closeBrowser" finished-at="2023-09-29T07:43:56 BRT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- examples.JwtTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

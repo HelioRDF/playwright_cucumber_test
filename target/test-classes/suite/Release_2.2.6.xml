@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Release 2.2.6" verbose="1" >
+
+
+  <test name="Pagina de login">
+     <classes>
+      <class name="login.Autenticar"/>
+    </classes>
+ </test>
+ 
+  <test name="Pagina Home">
+    <packages>
+      <package name="login" />
+   </packages>
+ </test>
+ 
+   <test name="Pagina de Vendas">
+    <packages>
+      <package name="login" />
+   </packages>
+ </test>
+ 
+ 
+</suite>
+
+
+
