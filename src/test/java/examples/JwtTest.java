@@ -42,7 +42,7 @@ public class JwtTest {
 	}
 	
 	@Test
-	void loginCliente2() {
+	void HomeClienteJWT() {
 		login.setContextJwt();
 		login.acessarUrl("https://react-redux.realworld.io");
 
