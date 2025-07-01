@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BuscarData",
+            "request": "launch",
+            "mainClass": "examples.BuscarData",
+            "projectName": "playwright"
+        },
+        {
+            "type": "java",
+            "name": "ExcelSimples",
+            "request": "launch",
+            "mainClass": "examples.ExcelSimples",
+            "projectName": "playwright"
+        },
+        {
+            "type": "java",
+            "name": "HistoryReborn",
+            "request": "launch",
+            "mainClass": "examples.HistoryReborn",
+            "projectName": "playwright"
+        },
+        {
+            "type": "java",
+            "name": "JwtTest2",
+            "request": "launch",
+            "mainClass": "examples.JwtTest2",
+            "projectName": "playwright"
+        },
+        {
+            "type": "java",
+            "name": "ManipularArquivo",
+            "request": "launch",
+            "mainClass": "examples.ManipularArquivo",
+            "projectName": "playwright"
+        },
+        {
+            "type": "java",
+            "name": "VerificaInternet",
+            "request": "launch",
+            "mainClass": "examples.VerificaInternet",
+            "projectName": "playwright"
+        }
+    ]
+}

@@ -1,18 +1,12 @@
 package examples;
 
-import static org.junit.Assert.assertThat;
-
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.nio.file.Paths;
-
+import java.util.List;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.BrowserType;
@@ -21,19 +15,22 @@ import com.microsoft.playwright.Page.ScreenshotOptions;
 import com.microsoft.playwright.Playwright;
 
 public class HistoryReborn {
-  // Shared between all tests in this class.
   Playwright playwright;
   Browser browser;
-
-  // New instance for each test method.
   BrowserContext context;
-  // Page page;
+  // Configurar as opções de lançamento, incluindo 'headless: true'
+  // BrowserType.LaunchOptions launchOptions = new
+  // BrowserType.LaunchOptions().setHeadless(true);
   Page page2;
+
+  public static void main(String[] args) {
+    // lerArquivo();
+  }
 
   @BeforeClass
   void launchBrowser() {
     playwright = Playwright.create();
-    browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+    browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(true));
   }
 
   @AfterClass
@@ -44,7 +41,7 @@ public class HistoryReborn {
   @BeforeMethod
   void createContextAndPage() {
     context = browser.newContext();
-   // page = context.newPage();
+    // page = context.newPage();
   }
 
   @AfterMethod
@@ -55,40 +52,53 @@ public class HistoryReborn {
   public String teste() {
     return "";
   }
-  
+
   @Test
-  void mercadoHistoryReborn() {
-    String texto="";
-    for (int id = 6690; id <= 8000; id++) {
+  void historyLinks() {
+    List<String> listaComLinks = ManipularArquivo.DadosDoArquivo();
+    System.out.println(listaComLinks);
+    for (int id = 47; id <= 100; id++) {
       playwright = Playwright.create();
-      browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+      // browser = playwright.chromium().launch(new
+      // BrowserType.LaunchOptions().setHeadless(false));
       context = browser.newContext();
       page2 = context.newPage();
+      while (!VerificaInternet.acessaInternet()) {
+        page2.waitForTimeout(40000);
+      }
+
       try {
-        page2.waitForTimeout(10000);
+        page2.waitForTimeout(2000);
         String link = "http://historyreborn.net/?module=item&action=view&id=" + id;
         page2.navigate(link);
-        page2.waitForTimeout(20000);
+        page2.waitForTimeout(10000);
         String bodyText = page2.locator("body").innerText();
-        page2.screenshot(new ScreenshotOptions().setPath(Paths.get("history/screenshot"+id+".png")));
-        if (bodyText.contains("22/06/2025")||bodyText.contains("23/06/2025")) {
-        String nomeArquivo = "History_Link.txt";
-        String linkRef ="\n"+link;
-        texto =texto+linkRef;
+        page2.screenshot(new ScreenshotOptions().setPath(Paths.get("history/screenshot" + id + ".png")));
 
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(nomeArquivo))) {
-            writer.write(texto);
-            System.out.println("Texto salvo com sucesso no arquivo: " + nomeArquivo);
-        } catch (IOException e) {
+        if (bodyText.contains(BuscarData.dataDe2DiasFormatada())
+            || bodyText.contains(BuscarData.dataDeOntemFormatada())
+            || bodyText.contains(BuscarData.dataAtualFormatada())) {
+          String linkRef = link;
+          try {
+            listaComLinks.add(linkRef);
+            System.out.println(link);
+          } catch (Exception e) {
             System.err.println("Erro ao salvar o texto: " + e.getMessage());
-        }
+          }
+        } else {
+          // listaComLinks.add("Sem Vendas: " + id);
+          System.out.println("Sem Vendas: " + id);
         }
       } catch (Exception e) {
-      //  System.out.println("Falha ID:" + id);
+        System.out.println("-> Falha ID: " + id);
+        //listaComLinks.add("Falha: " + id);
       }
       page2.waitForTimeout(20000);
+      ManipularArquivo.salvarLinks(listaComLinks);
       context.close();
-     playwright.close();
+      playwright.close();
     }
+
   }
+
 }
