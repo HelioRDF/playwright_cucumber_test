@@ -1,4 +1,4 @@
-package examples;
+package rag;
 
 import java.io.IOException;
 import java.net.InetAddress;
@@ -17,12 +17,13 @@ public class VerificaInternet {
         try {
             InetAddress endereco = InetAddress.getByName(hostParaTestar);
             if (endereco.isReachable(timeout)) {
-                System.out.println("Acesso a internet OK!");
+                System.out.println("\nAcesso a internet OK!");
                 internet = true;
             } else {
-                System.out.println("Sem acesso a internet");
+                System.out.println("\nSem acesso a internet");
                 internet = false;
             }
+            System.out.println("========================================================================================");
         } catch (UnknownHostException e) {
             System.err.println("Host desconhecido: " + hostParaTestar + ". Verifique o nome ou a conexão DNS.");
             e.printStackTrace();

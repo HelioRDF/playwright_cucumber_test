@@ -1,4 +1,4 @@
-package examples;
+package rag;
 
 import java.nio.file.Paths;
 import java.util.List;
@@ -12,6 +12,10 @@ import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Page.ScreenshotOptions;
+
+import examples.BuscarData;
+import examples.ManipularArquivo;
+
 import com.microsoft.playwright.Playwright;
 
 public class HistoryReborn {
@@ -56,7 +60,7 @@ public class HistoryReborn {
   @Test
   void historyLinks() {
     List<String> listaComLinks = ManipularArquivo.DadosDoArquivo();
-    //System.out.println(listaComLinks);
+    // System.out.println(listaComLinks);
     for (int id = 133481; id <= 200000; id++) {
       playwright = Playwright.create();
       // browser = playwright.chromium().launch(new
@@ -91,7 +95,7 @@ public class HistoryReborn {
         }
       } catch (Exception e) {
         System.out.println("-> Falha ID: " + id);
-        //listaComLinks.add("Falha: " + id);
+        // listaComLinks.add("Falha: " + id);
       }
       page2.waitForTimeout(3000);
       ManipularArquivo.salvarLinks(listaComLinks);
