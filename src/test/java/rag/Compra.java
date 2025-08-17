@@ -58,10 +58,12 @@ public class Compra {
     itens.add(new Item("Crown of Beelzebub", 400110, 19000, 10000, 1, 1));
     itens.add(new Item("Beteleuse Soul", 1000397, 900, 500, 1, 1));
     itens.add(new Item("Omni-Oridecon", 6438, 700, 500, 1, 1));
-    itens.add(new Item("Pedaço de Pele do Guardião", 2554, 500, 400, 32000000, 50000000));
+    itens.add(new Item("Pedaço de Pele do Guardião", 2554, 500, 400, 32000000, 25000000));
     itens.add(new Item("Black Candy", 70058, 40000, 20000, 0, 0));
     itens.add(new Item("[1000] Moeda ROPS", 40108, 1, 1, 62000000, 60000000));
     itens.add(new Item("Cartão VIP [30 Dias]", 37009, 11000, 10000, 1, 1));
+    itens.add(new Item("Bênção do Ferreiro", 6635, 120, 100, 9000000, 7000000));
+
 
     for (Item item : itens) {
       try {
