@@ -50,7 +50,7 @@ public class ManipularArquivo {
                 for (String linha : linhasDoArquivo) {
                     if (!linha.isEmpty()) {
                         writer.write("\n" + linha);
-                        System.out.println(linha);
+                       // System.out.println(linha);
                     }
                 }
             }

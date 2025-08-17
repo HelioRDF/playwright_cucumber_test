@@ -30,7 +30,7 @@ public class HistoryReborn {
   @BeforeClass
   void launchBrowser() {
     playwright = Playwright.create();
-    browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(true));
+    browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
   }
 
   @AfterClass
@@ -56,22 +56,22 @@ public class HistoryReborn {
   @Test
   void historyLinks() {
     List<String> listaComLinks = ManipularArquivo.DadosDoArquivo();
-    System.out.println(listaComLinks);
-    for (int id = 47; id <= 100; id++) {
+    //System.out.println(listaComLinks);
+    for (int id = 133481; id <= 200000; id++) {
       playwright = Playwright.create();
       // browser = playwright.chromium().launch(new
       // BrowserType.LaunchOptions().setHeadless(false));
       context = browser.newContext();
       page2 = context.newPage();
       while (!VerificaInternet.acessaInternet()) {
-        page2.waitForTimeout(40000);
+        page2.waitForTimeout(15000);
       }
 
       try {
         page2.waitForTimeout(2000);
         String link = "http://historyreborn.net/?module=item&action=view&id=" + id;
         page2.navigate(link);
-        page2.waitForTimeout(10000);
+        page2.waitForTimeout(9000);
         String bodyText = page2.locator("body").innerText();
         page2.screenshot(new ScreenshotOptions().setPath(Paths.get("history/screenshot" + id + ".png")));
 
@@ -93,7 +93,7 @@ public class HistoryReborn {
         System.out.println("-> Falha ID: " + id);
         //listaComLinks.add("Falha: " + id);
       }
-      page2.waitForTimeout(20000);
+      page2.waitForTimeout(3000);
       ManipularArquivo.salvarLinks(listaComLinks);
       context.close();
       playwright.close();
