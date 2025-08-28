@@ -20,32 +20,6 @@ public class Compra {
   BrowserContext context;
   Page page;
 
-  @BeforeClass
-  void launchBrowser() {
-    playwright = Playwright.create();
-    browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
-  }
-
-  @AfterClass
-  void closeBrowser() {
-    playwright.close();
-  }
-
-  @BeforeMethod
-  void createContextAndPage() {
-    context = browser.newContext();
-    // page = context.newPage();
-  }
-
-  @AfterMethod
-  void closeContext() {
-    context.close();
-  }
-
-  public String teste() {
-    return "";
-  }
-
   @Test
   void MonitorarItem() {
     boolean loop = true;
@@ -58,28 +32,9 @@ public class Compra {
       while (!VerificaInternet.acessaInternet()) {
         page.waitForTimeout(10000);
       }
-      ArrayList<Item> itens = new ArrayList<>();
-      itens.add(new Item("Pedaço de Pele do Guardião", 2554, 500, 400, 32000000, 25000000));
-      itens.add(new Item("Crown of Beelzebub", 400110, 19000, 10000, 1, 1));
-      itens.add(new Item("Beteleuse Soul", 1000397, 900, 390, 1, 1));
-      itens.add(new Item("Nebula Suit of Concentration", 450171, 70000, 40000, 1, 1));
-      itens.add(new Item("Omni-Oridecon", 6438, 700, 500, 1, 1));
-      itens.add(new Item("Super Omni-Oridecon", 70001, 1400, 1200, 1, 1));
-      itens.add(new Item("Black Candy", 70058, 40000, 20000, 0, 0));
-      itens.add(new Item("Bênção do Ferreiro", 6635, 120, 100, 9000000, 7000000));
-      itens.add(new Item("Manual de Mascar", 14799, 2200, 1800, 1, 1));
-      itens.add(new Item("Caixa de Areia de Bruxa [30k]", 11167, 5000, 4000, 300000000, 280000000));
-      itens.add(new Item("Elixir Carnavalesco", 11248, 2100, 2000, 1, 1));
-      itens.add(new Item("Mega-Elunium", 6439, 490, 450, 12000000, 10000000));
-      itens.add(new Item("Super Mega-Elunium", 70002, 3300, 2800, 1, 1));
-      itens.add(new Item("[1000] Moeda ROPS", 40108, 1, 1, 62000000, 60000000));
-      itens.add(new Item("Bolsa de Rubis [100kk]", 40400, 1900, 1600, 1, 1));
-      itens.add(new Item("Bolsa de Diamantes [1b]", 40097, 19000, 17000, 1, 1));
-      itens.add(new Item("Cartão VIP [30 Dias]", 37009, 11000, 10000, 1, 1));
-      itens.add(new Item("Mini-Refinadora", 33362, 12000, 11000, 1, 1));
-
+     
       int contador = 0;
-      for (Item item : itens) {
+      for (Item item : Item.listaDeItens()) {
         contador++;
         try {
           page.waitForTimeout(2000);
@@ -87,10 +42,16 @@ public class Compra {
           page.navigate(link);
           page.waitForTimeout(5000);
           int id = 2;
-          String tabela = page.locator("#nova-sale-table tbody tr:nth-child(" + id + ") td:nth-child(4)").innerText();
+          String tabela;
+          try {
+            tabela = page.locator("#nova-sale-table tbody tr:nth-child(" + id + ") td:nth-child(4)").innerText();
+          } catch (Exception e) {
+            continue;
+          }
+
           String valorAtualFormatado;
-          int valorAtualZenny = -1;
-          int valorAtualRops = -1;
+          double valorAtualZenny = -1;
+          double valorAtualRops = -1;
           if (tabela.contains("z")) {
             valorAtualFormatado = tabela.replaceAll("[^0-9]", "");
             valorAtualZenny = Integer.parseInt(valorAtualFormatado);
@@ -104,8 +65,8 @@ public class Compra {
             valorAtualRops = Integer.parseInt(valorAtualFormatado);
           }
           System.out.println(contador + " - " + item.toString());
-          System.out.println("Menor Valor Rops: " + valorAtualRops);
-          System.out.println("Menor Valor Zenny: " + valorAtualZenny);
+          System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualRops) + "c | Esperado: "+Item.valorFormatado(item.bomPrecoRop)+"c");
+          System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualZenny) + "z | Esperado: "+Item.valorFormatado(item.bomPrecoZenny)+"z");
           if (valorAtualRops != -1 && valorAtualRops <= item.bomPrecoRop) {
             alertar("Rop", link);
             comprar = true;
@@ -132,5 +93,31 @@ public class Compra {
     Toolkit.getDefaultToolkit().beep();
     System.out.println("Oportunidade de compra identificada: " + tipo);
     System.out.println(link);
+  }
+
+  @BeforeClass
+  void launchBrowser() {
+    playwright = Playwright.create();
+    browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+  }
+
+  @AfterClass
+  void closeBrowser() {
+    playwright.close();
+  }
+
+  @BeforeMethod
+  void createContextAndPage() {
+    context = browser.newContext();
+    // page = context.newPage();
+  }
+
+  @AfterMethod
+  void closeContext() {
+    context.close();
+  }
+
+  public String teste() {
+    return "";
   }
 }

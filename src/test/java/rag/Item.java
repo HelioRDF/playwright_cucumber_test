@@ -1,14 +1,18 @@
 package rag;
 
+import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
+import java.util.ArrayList;
+
 public class Item {
     String nome;
     int id;
-    int precoRop;
-    int bomPrecoRop;
-    int precoZenny;
-    int bomPrecoZenny;
-    
-    public Item(String nome, int id, int precoRop, int bomPrecoRop, int precoZenny, int bomPrecoZenny) {
+    double precoRop;
+    double bomPrecoRop;
+    double precoZenny;
+    double bomPrecoZenny;
+
+    public Item(String nome, int id, double precoRop, double bomPrecoRop, double precoZenny, double bomPrecoZenny) {
         this.nome = nome;
         this.id = id;
         this.precoRop = precoRop;
@@ -33,44 +37,118 @@ public class Item {
         this.id = id;
     }
 
-    public int getPrecoRop() {
+    public double getPrecoRop() {
         return precoRop;
     }
 
-    public void setPrecoRop(int precoRop) {
+    public void setPrecoRop(double precoRop) {
         this.precoRop = precoRop;
     }
 
-    public int getBomPrecoRop() {
+    public double getBomPrecoRop() {
         return bomPrecoRop;
     }
 
-    public void setBomPrecoRop(int bomPrecoRop) {
+    public void setBomPrecoRop(double bomPrecoRop) {
         this.bomPrecoRop = bomPrecoRop;
     }
 
-    public int getPrecoZenny() {
+    public double getPrecoZenny() {
         return precoZenny;
     }
 
-    public void setPrecoZenny(int precoZenny) {
+    public void setPrecoZenny(double precoZenny) {
         this.precoZenny = precoZenny;
     }
 
-    public int getBomPrecoZenny() {
+    public double getBomPrecoZenny() {
         return bomPrecoZenny;
     }
 
-    public void setBomPrecoZenny(int bomPrecoZenny) {
+    public void setBomPrecoZenny(double bomPrecoZenny) {
         this.bomPrecoZenny = bomPrecoZenny;
     }
 
     @Override
     public String toString() {
-        return "Nome: " + nome + " | id: " + id + " | precoRop: " + precoRop + " | bomPrecoRop: " + bomPrecoRop
-                + " | precoZenny: " + precoZenny + " | bomPrecoZenny: " + bomPrecoZenny + "";
+        String precoRopFormatado = valorFormatado(precoRop);
+          String precoZennyFormatado = valorFormatado(precoZenny);
+   
+        return "Nome: " + nome + " | id: " + id + " | precoRop: " + precoRopFormatado+ "c | precoZenny: " + precoZennyFormatado+"z";
     }
 
+    public static String valorFormatado(double valor) {
+        DecimalFormatSymbols symbols = new DecimalFormatSymbols();
+        symbols.setGroupingSeparator('.');
+        DecimalFormat formatadorMilhar = new DecimalFormat("#,###", symbols);
 
- 
+        DecimalFormatSymbols symbolsDecimais = new DecimalFormatSymbols();
+        symbolsDecimais.setGroupingSeparator('.');
+        symbolsDecimais.setDecimalSeparator(',');
+
+        String valorFormatado = formatadorMilhar.format(valor);
+        return valorFormatado;
+    }
+
+    public static ArrayList<Item> listaDeItens() {
+        // Equipamentos
+        ArrayList<Item> itens = new ArrayList<>();
+        itens.add(new Item("Crown of Beelzebub", 400110, 19000, 10000, 1, 1));
+        itens.add(new Item("Nebula Suit of Concentration", 450171, 70000, 40000, 1, 1));
+        itens.add(new Item("Pedaço de Pele do Guardião", 2554, 500, 400, 32000000, 25000000));
+        itens.add(new Item("Mini-Refinadora", 33362, 19990, 15000, 1, 1));
+
+        // Moedas e Vips
+        itens.add(new Item("Bolsa de Rubis [100kk]", 40400, 1900, 1600, 1, 1));
+        itens.add(new Item("Bolsa de Diamantes [1b]", 40097, 19000, 17000, 1, 1));
+        itens.add(new Item("[1000] Moeda ROPS", 40108, 1, 1, 62000000, 60000000));
+        itens.add(new Item("Cartão VIP [30 Dias]", 37009, 11000, 10000, 1, 1));
+
+        // Cartas
+        itens.add(new Item("The Hanged Man Card", 27366, 5000, 2500, 1, 1));
+        itens.add(new Item("Carta Elvira", 4577, 4000, 2500, 1, 1));
+
+        // Minerios
+        itens.add(new Item("Omni-Oridecon", 6438, 700, 500, 1, 1));
+        itens.add(new Item("Super Omni-Oridecon", 70001, 1400, 1200, 1, 1));
+        itens.add(new Item("Minor Cast Stone(Garment)", 25170, 950, 700, 1, 1));
+        itens.add(new Item("Cast Stone(Garment)", 25067, 2700, 2200, 1, 1));
+        itens.add(new Item("Mega-Elunium", 6439, 490, 350, 12000000, 10000000));
+        itens.add(new Item("Super Mega-Elunium", 70002, 3300, 2800, 1, 1));
+
+        itens.add(new Item("Black Candy", 70058, 40000, 20000, 0, 0));
+        itens.add(new Item("Bênção do Ferreiro", 6635, 120, 100, 9000000, 7000000));
+        itens.add(new Item("Manual de Mascar", 14799, 2200, 1800, 1, 1));
+        itens.add(new Item("Caixa de Areia de Bruxa [30k]", 11167, 5000, 4000, 300000000, 280000000));
+        itens.add(new Item("Elixir Carnavalesco", 11248, 2100, 1800, 1, 1));
+
+        // Pets
+        itens.add(new Item("Sakray", 92560, 300000, 200000, 1, 1));
+        itens.add(new Item("Ceifador Ankou", 92570, 300000, 200000, 1, 1));
+        itens.add(new Item("Sarah Irine", 92580, 300000, 200000, 1, 1));
+        itens.add(new Item("Death Witch", 92590, 300000, 200000, 1, 1));
+        itens.add(new Item("Piamette Pesadelo", 93110, 300000, 200000, 1, 1));
+        itens.add(new Item("Deus Morroc", 92460, 300000, 200000, 1, 1));
+        itens.add(new Item("Betelgeuse", 92500, 300000, 200000, 1, 1));
+        itens.add(new Item("Freyja", 92530, 300000, 200000, 1, 1));
+        itens.add(new Item("Malícia", 92600, 300000, 200000, 1, 1));
+        itens.add(new Item("Corrupted Dark Lord", 92680, 300000, 200000, 1, 1));
+        itens.add(new Item("Pássaro Elemental", 92710, 300000, 200000, 1, 1));
+        itens.add(new Item("Reencarnação de Morroc", 92750, 300000, 200000, 1, 1));
+        itens.add(new Item("Imperador Galapago", 92910, 300000, 200000, 1, 1));
+        itens.add(new Item("Serpente do Equinócio", 92900, 300000, 200000, 1, 1));
+        itens.add(new Item("Leviatã Abismal", 92890, 300000, 200000, 1, 1));
+        itens.add(new Item("Dragão da Serenidade", 92880, 300000, 200000, 1, 1));
+        itens.add(new Item("Rei Arthur", 92630, 300000, 200000, 1, 1));
+        itens.add(new Item("Rainha Aby", 92850, 300000, 200000, 1, 1));
+        itens.add(new Item("Juncea", 92820, 300000, 200000, 1, 1));
+        itens.add(new Item("Mistic Fairy", 93060, 300000, 200000, 1, 1));
+        itens.add(new Item("Jordan Guardian", 91440, 300000, 200000, 1, 1));
+        itens.add(new Item("Deusa Eris", 93090, 300000, 200000, 1, 1));
+        itens.add(new Item("Lilith", 92960, 300000, 200000, 1, 1));
+        itens.add(new Item("Deusa Hera", 92960, 300000, 200000, 1, 1));
+
+        return itens;
+    }
+
 }
