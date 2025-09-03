@@ -61,7 +61,7 @@ public class HistoryReborn {
   void historyLinks() {
     List<String> listaComLinks = ManipularArquivo.DadosDoArquivo();
     // System.out.println(listaComLinks);
-    for (int id = 133481; id <= 200000; id++) {
+    for (int id = 154526; id <= 200000; id++) {
       playwright = Playwright.create();
       // browser = playwright.chromium().launch(new
       // BrowserType.LaunchOptions().setHeadless(false));

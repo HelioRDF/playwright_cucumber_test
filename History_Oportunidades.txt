@@ -1,0 +1,8 @@
+
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
+Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 14899.0c | 03/09/2025 03:45:15
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
+Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 14899.0c | 03/09/2025 03:45:15
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1500.0c | 03/09/2025 03:49:23

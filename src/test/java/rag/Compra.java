@@ -12,6 +12,9 @@ import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
+
+import examples.ManipularArquivoCompra;
+
 import java.awt.Toolkit;
 
 public class Compra {
@@ -32,7 +35,7 @@ public class Compra {
       while (!VerificaInternet.acessaInternet()) {
         page.waitForTimeout(10000);
       }
-     
+
       int contador = 0;
       for (Item item : Item.listaDeItens()) {
         contador++;
@@ -65,14 +68,18 @@ public class Compra {
             valorAtualRops = Integer.parseInt(valorAtualFormatado);
           }
           System.out.println(contador + " - " + item.toString());
-          System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualRops) + "c | Esperado: "+Item.valorFormatado(item.bomPrecoRop)+"c");
-          System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualZenny) + "z | Esperado: "+Item.valorFormatado(item.bomPrecoZenny)+"z");
+          System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualRops) + "c | Esperado: "
+              + Item.valorFormatado(item.bomPrecoRop) + "c");
+          System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualZenny) + "z | Esperado: "
+              + Item.valorFormatado(item.bomPrecoZenny) + "z");
           if (valorAtualRops != -1 && valorAtualRops <= item.bomPrecoRop) {
             alertar("Rop", link);
+            ManipularArquivoCompra.salvarItem(item, valorAtualRops + "c");
             comprar = true;
           }
           if (valorAtualZenny != -1 && valorAtualZenny <= item.bomPrecoZenny) {
             alertar("Zenny", link);
+            ManipularArquivoCompra.salvarItem(item, valorAtualZenny + "c");
             comprar = true;
           }
           System.out.println("-----------------------------------------------------------------------------");
