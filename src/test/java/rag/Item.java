@@ -103,6 +103,10 @@ public class Item {
         itens.add(new Item("Echarpe Misteriosa", 19499, 7000, 5000, 1, 1));
         itens.add(new Item("Martelo de Fundição Sombrio", 23926, 28000, 20000, 1, 1));
 
+        //WL
+        itens.add(new Item("Mental Expansion Ring [1]", 490079, 10000, 8000, 1, 1));
+        itens.add(new Item("Memento Mori [1]", 490207, 350000, 200000, 1, 1));
+
         // Moedas e Vips
         itens.add(new Item("Bolsa de Rubis [100kk]", 40400, 1900, 1600, 1, 1));
         itens.add(new Item("Bolsa de Diamantes [1b]", 40097, 19000, 16000, 1, 1));

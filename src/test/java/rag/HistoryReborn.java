@@ -2,21 +2,21 @@ package rag;
 
 import java.nio.file.Paths;
 import java.util.List;
+
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Page.ScreenshotOptions;
+import com.microsoft.playwright.Playwright;
 
 import examples.BuscarData;
-import examples.ManipularArquivo;
-
-import com.microsoft.playwright.Playwright;
 
 public class HistoryReborn {
   Playwright playwright;
@@ -61,7 +61,7 @@ public class HistoryReborn {
   void historyLinks() {
     List<String> listaComLinks = ManipularArquivo.DadosDoArquivo();
     // System.out.println(listaComLinks);
-    for (int id = 154526; id <= 200000; id++) {
+    for (int id = 184872; id <= 200000; id++) {
       playwright = Playwright.create();
       // browser = playwright.chromium().launch(new
       // BrowserType.LaunchOptions().setHeadless(false));

@@ -1,21 +1,18 @@
 package rag;
 
-import java.util.ArrayList;
+import java.awt.Toolkit;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
-
-import examples.ManipularArquivoCompra;
-
-import java.awt.Toolkit;
 
 public class Compra {
   Playwright playwright;
@@ -26,6 +23,7 @@ public class Compra {
   @Test
   void MonitorarItem() {
     boolean loop = true;
+    ManipularArquivoCompra.DadosDoArquivo();
     while (loop) {
 
       playwright = Playwright.create();

@@ -1,8 +1,68 @@
 
-Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
-Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 14899.0c | 03/09/2025 03:45:15
-Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
-Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 7000.0c | 03/09/2025 03:44:35
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 14899.0c | 03/09/2025 03:45:15
-Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1500.0c | 03/09/2025 03:49:23
+Nome: Echarpe Misteriosa | id: 19499 | precoRop: 7.000c | precoZenny: 1z | Atual: 4499.0c | 13/09/2025 23:40:11
+Nome: Super Omni-Oridecon | id: 70001 | precoRop: 1.400c | precoZenny: 1z | Atual: 1188.0c | 13/09/2025 23:48:28
+Nome: Cast Stone(Garment) | id: 25067 | precoRop: 2.700c | precoZenny: 1z | Atual: 1800.0c | 13/09/2025 23:48:53
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3100.0c | 13/09/2025 23:50:51
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1299.0c | 13/09/2025 23:51:04
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 6500.0c | 15/09/2025 19:48:46
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3800.0c | 15/09/2025 19:58:35
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 19:58:48
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 6000.0c | 15/09/2025 20:17:34
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3800.0c | 15/09/2025 20:27:20
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1200.0c | 15/09/2025 20:27:33
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 6000.0c | 15/09/2025 20:46:24
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3600.0c | 15/09/2025 20:56:20
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1200.0c | 15/09/2025 20:56:33
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 6000.0c | 15/09/2025 21:14:53
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3600.0c | 15/09/2025 21:24:46
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 21:25:00
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5999.0c | 15/09/2025 21:43:17
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3899.0c | 15/09/2025 21:53:05
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 21:53:18
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5999.0c | 15/09/2025 22:11:44
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3799.0c | 15/09/2025 22:21:36
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 22:21:49
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5500.0c | 15/09/2025 22:40:05
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3799.0c | 15/09/2025 22:49:50
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 22:50:03
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5500.0c | 15/09/2025 23:08:18
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 15/09/2025 23:08:45
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3899.0c | 15/09/2025 23:18:06
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 23:18:19
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5500.0c | 15/09/2025 23:36:32
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 15/09/2025 23:36:58
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3799.0c | 15/09/2025 23:46:11
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 15/09/2025 23:46:24
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5500.0c | 16/09/2025 00:04:37
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 00:05:03
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3799.0c | 16/09/2025 00:14:40
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 00:14:53
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5500.0c | 16/09/2025 00:33:11
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 00:33:38
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3799.0c | 16/09/2025 00:43:03
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 00:43:16
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5998.0c | 16/09/2025 01:01:35
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 01:02:02
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3799.0c | 16/09/2025 01:11:22
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 01:11:36
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5998.0c | 16/09/2025 01:29:53
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 01:30:20
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3798.0c | 16/09/2025 01:39:41
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 01:39:53
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5998.0c | 16/09/2025 01:58:36
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 01:59:03
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3899.0c | 16/09/2025 02:08:27
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 02:08:40
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5998.0c | 16/09/2025 02:27:01
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 02:27:28
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3899.0c | 16/09/2025 02:36:50
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 02:37:03
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5998.0c | 16/09/2025 02:55:22
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 399.0c | 16/09/2025 02:55:48
+Nome: Caixa de Areia de Bruxa [30k] | id: 11167 | precoRop: 5.000c | precoZenny: 300.000.000z | Atual: 3899.0c | 16/09/2025 03:05:14
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 03:05:27
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5997.0c | 16/09/2025 10:28:36
+Nome: Pedaço de Pele do Guardião | id: 2554 | precoRop: 500c | precoZenny: 32.000.000z | Atual: 400.0c | 16/09/2025 10:29:03
+Nome: Echarpe Misteriosa | id: 19499 | precoRop: 7.000c | precoZenny: 1z | Atual: 5000.0c | 16/09/2025 10:30:08
+Nome: Elixir Carnavalesco | id: 11248 | precoRop: 2.100c | precoZenny: 1z | Atual: 1350.0c | 16/09/2025 10:39:07
+Nome: Crown of Beelzebub | id: 400110 | precoRop: 19.000c | precoZenny: 1z | Atual: 5997.0c | 16/09/2025 10:57:35
