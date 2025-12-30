@@ -12,12 +12,12 @@ public class VerificaInternet {
     public static Boolean acessaInternet() {
         String hostParaTestar = "www.google.com"; // Um host conhecido na internet
         int timeout = 5000; // Tempo limite em milissegundos (3 segundos)
-        boolean internet=false;
+        boolean internet = false;
 
         try {
             InetAddress endereco = InetAddress.getByName(hostParaTestar);
             if (endereco.isReachable(timeout)) {
-                System.out.println("\nAcesso a internet OK!");
+                // System.out.println("\nAcesso a internet OK!");
                 internet = true;
             } else {
                 System.out.println("\nSem acesso a internet");
@@ -32,7 +32,6 @@ public class VerificaInternet {
             e.printStackTrace();
         }
 
-        
         return internet;
     }
 }

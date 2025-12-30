@@ -12,8 +12,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ManipularArquivoCompra {
+
     static String nomeDoArquivo = "History_Oportunidades.txt";
+    static String nomeDoArquivo2 = "MonitorItens.txt";
     static List<String> linhasDoArquivo = new ArrayList<>();
+    static List<String> linhasDoArquivo2 = new ArrayList<>();
 
     public static void main(String[] args) {
 
@@ -48,6 +51,39 @@ public class ManipularArquivoCompra {
             if (item != null) {
                 linhasDoArquivo.add(item + " | Atual: " + valorAtual + " | " + dataHoraFormatada);
                 for (String linha : linhasDoArquivo) {
+                    if (!linha.isEmpty()) {
+                        writer.write("\n" + linha);
+                        // System.out.println(linha);
+                    }
+                }
+            }
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void separdorDeLinhas() {
+        BufferedWriter writer;
+        // linhasDoArquivo2.clear();
+        try {
+            writer = new BufferedWriter(new FileWriter(nomeDoArquivo2));
+            linhasDoArquivo2.add("-------------------------------------------------------------------------");
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void salvarItemResumo(Item item, String valorAtualRops, String valorAtualZenny) {
+        // Agora, as linhas do arquivo estão na variável 'linhasDoArquivo'
+        BufferedWriter writer;
+
+        try {
+            writer = new BufferedWriter(new FileWriter(nomeDoArquivo2));
+            if (item != null) {
+                linhasDoArquivo2.add(item.nome + " (" + item.id + ") " + " | Rops: " + valorAtualRops + " | Zenny: " + valorAtualZenny);
+                for (String linha : linhasDoArquivo2) {
                     if (!linha.isEmpty()) {
                         writer.write("\n" + linha);
                         // System.out.println(linha);
