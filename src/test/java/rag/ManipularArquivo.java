@@ -10,7 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ManipularArquivo {
-    static String nomeDoArquivo = "History_Link.txt";
+
+    static String nomeDoArquivo = "History/History_Link.txt";
     static List<String> linhasDoArquivo = new ArrayList<>();
 
     public static void main(String[] args) {
@@ -50,7 +51,7 @@ public class ManipularArquivo {
                 for (String linha : linhasDoArquivo) {
                     if (!linha.isEmpty()) {
                         writer.write("\n" + linha);
-                       // System.out.println(linha);
+                        // System.out.println(linha);
                     }
                 }
             }

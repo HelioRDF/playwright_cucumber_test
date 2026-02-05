@@ -1,545 +1,68 @@
 
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:02:48
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:06:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:08:41
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:12:02
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:14:34
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:17:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:20:27
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:23:46
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:26:25
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:29:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:32:19
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:35:38
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:38:12
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:41:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:44:09
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:47:31
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:50:05
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:53:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 14:56:02
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 14:59:27
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 86000.0c | 21/12/2025 15:02:00
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 15:05:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 15:08:16
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 15:11:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 15:14:19
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 15:17:44
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 15:20:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 19:31:57
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 19:35:15
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 19:37:49
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 19:41:13
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 19:43:47
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 19:47:07
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 19:49:40
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 19:53:03
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 19:55:43
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 19:59:00
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:01:53
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:05:09
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:07:42
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:11:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:14:10
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:17:27
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:19:59
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:23:17
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:25:50
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:29:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:31:40
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:35:04
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:37:37
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:40:53
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:43:27
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:46:48
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:49:19
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:52:36
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 20:55:15
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 20:58:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:01:07
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:04:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:06:59
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:10:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:12:49
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:16:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:18:41
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:21:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:24:34
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:27:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:30:38
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:33:57
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:36:33
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:39:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:42:25
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:45:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:48:20
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:51:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 21:54:14
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 21:57:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 22:00:06
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 22:03:29
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 22:06:03
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 23:16:01
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 23:19:20
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 23:21:55
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 21/12/2025 23:25:12
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 87000.0c | 21/12/2025 23:27:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 02:01:54
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 22/12/2025 02:05:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 02:07:50
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 22/12/2025 02:11:11
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 02:13:46
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 22/12/2025 02:17:07
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 02:19:42
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 22/12/2025 02:23:03
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 02:25:36
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 22/12/2025 02:28:56
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 02:31:31
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 11:57:46
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:03:35
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:09:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:15:35
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:21:26
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:27:20
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:33:11
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:39:07
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:44:59
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:51:14
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 12:57:05
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:02:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:09:11
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:15:04
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:20:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:26:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:32:47
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:38:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:44:21
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 13:50:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:03:00
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:08:49
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:14:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:20:36
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:26:25
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:32:12
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 85000.0c | 22/12/2025 18:38:00
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 22/12/2025 18:43:49
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 22/12/2025 18:50:02
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 22/12/2025 18:55:50
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 22/12/2025 19:01:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 22/12/2025 19:07:31
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 03:49:40
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 03:53:02
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 03:55:38
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 03:58:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:01:34
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:04:55
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:07:33
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:11:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:13:38
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:16:59
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:19:35
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:22:55
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:25:32
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:28:59
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:31:34
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:34:56
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:37:32
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:40:55
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:43:31
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:46:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:49:27
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:52:49
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 04:55:24
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 04:58:47
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 05:01:23
-Nome: Etel Dust | id: 1000322 | precoRop: 2c | precoZenny: 1z | Atual: 1.0c | 23/12/2025 05:04:46
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 23/12/2025 05:07:19
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 12:26:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 12:32:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 12:38:32
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 12:44:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 23/12/2025 12:50:15
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 23/12/2025 12:56:09
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 23/12/2025 13:02:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 13:07:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 13:13:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 13:19:38
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 13:25:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 14:23:49
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 14:29:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 14:36:34
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 14:42:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 14:48:47
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 14:54:48
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:00:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:06:31
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:12:25
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:18:17
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:24:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:30:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:35:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:41:55
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:47:49
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:53:44
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 15:59:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:05:35
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:11:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:17:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:23:17
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:29:09
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:35:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:40:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:46:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:52:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 16:58:26
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:04:22
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:10:14
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:16:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:22:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:27:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:33:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:39:34
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:45:23
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:51:13
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 17:57:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:03:08
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:09:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:14:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:20:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:26:36
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:32:28
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:38:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:44:08
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:49:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 18:55:46
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:01:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:07:31
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:13:22
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:19:11
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:25:03
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:30:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:36:44
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:42:35
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:48:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 19:54:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 20:26:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 20:32:20
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 20:38:13
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 20:44:05
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 20:49:57
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 20:56:13
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 21:02:05
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 21:07:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 21:13:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 21:19:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 22:03:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 22:08:56
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 22:14:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 23/12/2025 22:20:47
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:21:09
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:27:07
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:33:03
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:38:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:44:56
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:50:51
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 01:56:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 02:02:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 02:08:44
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 02:14:40
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 24/12/2025 02:20:32
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:01:04
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:02:21
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:03:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:06:53
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:08:40
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:09:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:13:15
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:14:33
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:15:50
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:19:26
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:20:44
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:22:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:25:19
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:26:35
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:27:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:31:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:32:26
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:33:44
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:37:04
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:38:22
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:39:38
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:42:58
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:44:15
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:45:31
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84500.0c | 24/12/2025 15:48:51
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:50:08
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:51:25
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 24/12/2025 15:55:28
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 15:56:47
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 15:58:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:01:55
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:03:13
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:04:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:07:51
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:09:08
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:10:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:13:46
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:15:05
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:16:21
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:19:43
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:20:58
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:22:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:25:34
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:26:50
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:28:07
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:31:48
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:33:03
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:34:20
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:37:41
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:38:56
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:40:21
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:43:40
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:44:56
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:46:14
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:49:33
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:50:50
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:52:07
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 16:55:26
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 16:56:42
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 16:57:59
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:01:17
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:02:35
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 17:03:51
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:07:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:08:26
-Nome: [1000] Moeda de Pontos MvP | id: 50086 | precoRop: 2.800c | precoZenny: 5.000.000z | Atual: 1500.0c | 24/12/2025 17:09:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:13:03
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:14:20
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:18:55
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:20:12
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:24:47
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:26:04
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:30:40
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:31:57
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:36:33
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:37:49
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:42:24
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:43:41
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:48:23
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:49:40
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 17:54:16
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 17:55:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:00:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 18:01:25
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:06:01
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 18:07:15
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:12:25
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 18:13:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:18:16
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 18:19:34
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:24:11
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10999.0c | 24/12/2025 18:25:27
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:30:29
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10850.0c | 24/12/2025 18:31:46
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:36:22
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10850.0c | 24/12/2025 18:37:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:42:16
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10850.0c | 24/12/2025 18:43:33
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:48:11
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 18:49:27
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 18:54:06
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 18:55:22
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:00:00
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:01:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:05:52
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:07:09
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:11:46
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:13:05
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:17:41
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:18:57
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:23:34
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:24:51
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:29:28
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:30:45
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:35:23
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:36:39
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:41:20
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:42:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:47:14
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:48:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:53:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 19:54:26
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 19:59:03
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:00:20
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:04:57
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:06:13
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:10:51
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:12:08
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:16:44
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:18:02
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:22:36
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:23:53
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:28:30
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:29:47
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:34:25
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:35:42
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:40:22
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:41:38
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:46:17
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:47:34
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:52:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:53:26
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 20:58:04
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 20:59:21
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 21:03:58
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 21:05:15
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 21:09:53
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 21:11:11
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 21:15:47
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10849.0c | 24/12/2025 21:17:04
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 21:21:42
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10800.0c | 24/12/2025 21:22:58
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 21:27:35
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10800.0c | 24/12/2025 21:28:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 24/12/2025 21:33:31
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10800.0c | 24/12/2025 21:34:48
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 05:00:17
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10799.0c | 25/12/2025 05:01:34
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 05:06:13
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10799.0c | 25/12/2025 05:07:29
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 05:12:07
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10799.0c | 25/12/2025 05:13:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 05:18:01
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10799.0c | 25/12/2025 05:19:18
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 13:03:39
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10798.0c | 25/12/2025 13:05:00
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 13:09:36
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10798.0c | 25/12/2025 13:10:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84998.0c | 25/12/2025 13:15:30
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10798.0c | 25/12/2025 13:16:46
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 01:39:22
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 01:40:38
-Nome: [1000] Moeda ROPS | id: 40108 | precoRop: 1c | precoZenny: 62.000.000z | Atual: 63500.0c | 26/12/2025 01:41:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 01:45:18
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 01:46:34
-Nome: [1000] Moeda ROPS | id: 40108 | precoRop: 1c | precoZenny: 62.000.000z | Atual: 63500.0c | 26/12/2025 01:47:21
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 01:51:12
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 01:52:29
-Nome: [1000] Moeda ROPS | id: 40108 | precoRop: 1c | precoZenny: 62.000.000z | Atual: 63500.0c | 26/12/2025 01:53:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 01:57:09
-Nome: [1000] Moeda ROPS | id: 40108 | precoRop: 1c | precoZenny: 62.000.000z | Atual: 63500.0c | 26/12/2025 01:59:50
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:04:01
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:06:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:11:17
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:12:38
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:17:19
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:18:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:23:14
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:24:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:29:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:31:05
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:35:44
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:37:01
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:41:38
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:42:55
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84999.0c | 26/12/2025 02:47:34
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10400.0c | 26/12/2025 02:48:52
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 27/12/2025 04:20:36
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10000.0c | 27/12/2025 04:21:54
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 27/12/2025 04:24:27
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 27/12/2025 04:26:31
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10000.0c | 27/12/2025 04:27:49
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 27/12/2025 04:30:23
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84000.0c | 27/12/2025 04:32:26
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10000.0c | 27/12/2025 04:33:42
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 27/12/2025 04:36:16
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84499.0c | 27/12/2025 14:22:35
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9996.0c | 27/12/2025 14:23:52
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 27/12/2025 14:26:25
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84499.0c | 27/12/2025 14:28:27
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9996.0c | 27/12/2025 14:29:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84498.0c | 27/12/2025 18:34:22
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9900.0c | 27/12/2025 18:35:40
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 27/12/2025 18:38:11
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84498.0c | 27/12/2025 18:40:14
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9900.0c | 27/12/2025 18:41:31
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 27/12/2025 18:44:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 84498.0c | 27/12/2025 18:46:09
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9900.0c | 27/12/2025 18:47:26
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 79999.0c | 28/12/2025 01:05:42
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 49997.0c | 28/12/2025 01:07:21
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9600.0c | 28/12/2025 01:07:37
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 01:10:36
-Nome: [Extreme] Esfera da Fenda | id: 33390 | precoRop: 450c | precoZenny: 5.000.000z | Atual: 285.0c | 28/12/2025 01:11:23
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 79999.0c | 28/12/2025 01:12:41
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 49997.0c | 28/12/2025 01:13:50
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9600.0c | 28/12/2025 01:14:13
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 01:17:36
-Nome: [Extreme] Esfera da Fenda | id: 33390 | precoRop: 450c | precoZenny: 5.000.000z | Atual: 285.0c | 28/12/2025 01:18:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 79999.0c | 28/12/2025 01:20:43
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 49997.0c | 28/12/2025 01:21:57
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9600.0c | 28/12/2025 01:22:12
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 01:25:51
-Nome: [Extreme] Esfera da Fenda | id: 33390 | precoRop: 450c | precoZenny: 5.000.000z | Atual: 285.0c | 28/12/2025 01:26:38
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 81999.0c | 28/12/2025 01:28:17
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 28/12/2025 13:15:28
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 48700.0c | 28/12/2025 13:16:30
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10000.0c | 28/12/2025 13:16:45
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 17.0c | 28/12/2025 13:19:05
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 13:19:36
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 28/12/2025 13:21:38
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 48700.0c | 28/12/2025 13:22:40
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10000.0c | 28/12/2025 13:22:55
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 17.0c | 28/12/2025 13:25:13
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 13:25:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 28/12/2025 13:27:45
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 17.0c | 28/12/2025 13:31:54
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 13:32:25
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 28/12/2025 13:34:26
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 48700.0c | 28/12/2025 13:35:28
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 10000.0c | 28/12/2025 13:35:44
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 17.0c | 28/12/2025 13:38:03
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 81999.0c | 28/12/2025 21:26:20
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9996.0c | 28/12/2025 21:27:36
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 12.0c | 28/12/2025 21:29:53
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 21:30:24
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 28/12/2025 21:32:28
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9996.0c | 28/12/2025 21:33:45
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 12.0c | 28/12/2025 21:36:03
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 104.0c | 28/12/2025 21:36:35
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 28/12/2025 21:38:37
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 29/12/2025 01:53:26
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9799.0c | 29/12/2025 01:54:42
-Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z | Atual: 14.0c | 29/12/2025 01:56:28
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 9.0c | 29/12/2025 01:56:59
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 103.0c | 29/12/2025 01:57:30
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 29/12/2025 01:59:33
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9799.0c | 29/12/2025 02:00:55
-Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z | Atual: 14.0c | 29/12/2025 02:02:42
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 9.0c | 29/12/2025 02:03:12
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 103.0c | 29/12/2025 02:03:43
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 29/12/2025 02:05:47
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9799.0c | 29/12/2025 02:07:05
-Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z | Atual: 14.0c | 29/12/2025 02:08:52
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 9.0c | 29/12/2025 02:09:23
-Nome: Etel Amethyst | id: 1000327 | precoRop: 130c | precoZenny: 1z | Atual: 103.0c | 29/12/2025 02:09:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 80000.0c | 29/12/2025 02:11:56
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9799.0c | 29/12/2025 02:13:15
-Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z | Atual: 14.0c | 29/12/2025 02:15:02
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 76998.0c | 29/12/2025 22:14:58
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 49777.0c | 29/12/2025 22:15:59
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9650.0c | 29/12/2025 22:16:14
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 10.0c | 29/12/2025 22:18:34
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 76998.0c | 29/12/2025 22:21:09
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 49750.0c | 29/12/2025 22:22:16
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9600.0c | 29/12/2025 22:22:31
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 10.0c | 29/12/2025 22:24:54
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 76998.0c | 29/12/2025 22:27:40
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 49750.0c | 29/12/2025 22:28:43
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9600.0c | 29/12/2025 22:28:58
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 10.0c | 29/12/2025 22:31:22
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 76998.0c | 29/12/2025 22:34:06
-Nome: Arcana | id: 29585 | precoRop: 100.000c | precoZenny: 1z | Atual: 74999.0c | 30/12/2025 03:37:39
-Nome: Refinadora Complexa | id: 33360 | precoRop: 67.000c | precoZenny: 1z | Atual: 50000.0c | 30/12/2025 03:38:40
-Nome: Mini-Refinadora | id: 33362 | precoRop: 19.990c | precoZenny: 1z | Atual: 9593.0c | 30/12/2025 03:38:56
-Nome: Etel Stone | id: 1000323 | precoRop: 24c | precoZenny: 1z | Atual: 9.0c | 30/12/2025 03:41:15
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:13:44
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:15:03
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:15:16
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:15:43
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:17:02
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:17:15
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:17:28
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:17:42
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:19:01
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:19:14
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:19:27
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:19:40
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:21:01
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:21:14
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:21:27
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:21:40
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:22:59
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:23:12
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:23:25
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:23:38
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:24:57
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:25:10
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:25:23
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:25:36
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:26:55
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:27:08
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:27:21
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:27:34
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:28:53
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:29:06
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:29:19
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:29:32
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:30:52
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:31:06
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:31:19
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:31:32
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:32:50
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:33:03
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:33:16
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:33:29
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:34:53
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:35:07
+Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z | Atual: 36.0c | 05/02/2026 13:35:20
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:35:33
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:36:52
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:37:05
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:37:31
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:38:50
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:39:03
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:39:30
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:40:49
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:41:03
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:41:29
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:42:48
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:43:01
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:43:27
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:44:47
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:45:00
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:45:28
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:46:47
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:47:00
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:47:27
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:48:46
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:49:00
+Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z | Atual: 388.0c | 05/02/2026 13:49:26
+Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z | Atual: 6399.0c | 05/02/2026 13:50:46
+Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z | Atual: 9998.0c | 05/02/2026 13:50:59

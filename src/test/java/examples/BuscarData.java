@@ -1,8 +1,8 @@
 package examples;
 
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-import java.text.SimpleDateFormat;
 
 public class BuscarData {
 
@@ -26,7 +26,7 @@ public class BuscarData {
         Date hoje = new Date();
         // Formatar a data
         SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
-        
+
         // Criar um objeto Calendar e definir a data para a data atual
         Calendar calendario = Calendar.getInstance();
         calendario.setTime(hoje); // Define a data do calendário para a data atual
@@ -42,13 +42,12 @@ public class BuscarData {
 
     }
 
-    
     public static String dataDe2DiasFormatada() {
         // Pegar a data e hora atual
         Date hoje = new Date();
         // Formatar a data
         SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
-        
+
         // Criar um objeto Calendar e definir a data para a data atual
         Calendar calendario = Calendar.getInstance();
         calendario.setTime(hoje); // Define a data do calendário para a data atual
@@ -59,10 +58,30 @@ public class BuscarData {
         // Obter a nova data (que foi modificada)
         Date dataOntem = calendario.getTime();
 
-       // System.out.println("Data menos um dia: " + formatter.format(dataOntem));
+        // System.out.println("Data menos um dia: " + formatter.format(dataOntem));
         return formatter.format(dataOntem).toString();
 
     }
 
+    public static String dataDe3DiasFormatada() {
+        // Pegar a data e hora atual
+        Date hoje = new Date();
+        // Formatar a data
+        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
+
+        // Criar um objeto Calendar e definir a data para a data atual
+        Calendar calendario = Calendar.getInstance();
+        calendario.setTime(hoje); // Define a data do calendário para a data atual
+
+        // Diminuir um dia do calendário
+        calendario.add(Calendar.DAY_OF_MONTH, -3);
+
+        // Obter a nova data (que foi modificada)
+        Date dataOntem = calendario.getTime();
+
+        // System.out.println("Data menos um dia: " + formatter.format(dataOntem));
+        return formatter.format(dataOntem).toString();
+
+    }
 
 }

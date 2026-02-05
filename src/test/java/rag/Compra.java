@@ -24,13 +24,14 @@ public class Compra {
     @Test
     void MonitorarItem3() {
         boolean loop = true;
+        int intervalo = 3000;
         ManipularArquivoCompra.DadosDoArquivo();
         while (loop) {
 
             boolean comprar = false;
 
             int contador = 0;
-            for (Item item : Item.listaDeItens()) {
+            for (Item item : Item.listaDeItens3()) {
                 playwright = Playwright.create();
 
                 context = browser.newContext();
@@ -39,11 +40,12 @@ public class Compra {
                     page.waitForTimeout(10000);
                 }
                 contador++;
+
                 try {
-                    page.waitForTimeout(4000);
+                    page.waitForTimeout(intervalo);
                     String link = "http://historyreborn.net/?module=item&action=view&id=" + item.id;
                     page.navigate(link);
-                    page.waitForTimeout(4000);
+                    page.waitForTimeout(intervalo);
                     int id = 2;
                     String tabela;
                     try {
@@ -83,7 +85,7 @@ public class Compra {
                         ManipularArquivoCompra.salvarItem(item, valorAtualZenny + "c");
                         comprar = true;
                     }
-                    page.waitForTimeout(3000);
+                    page.waitForTimeout(intervalo);
 
                 } catch (Exception e) {
                     System.out.println(e);

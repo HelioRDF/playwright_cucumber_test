@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="rag.Compra" time="392.533" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Helio\OneDrive\Documentos\GIT\playwright_cucumber_test\target\test-classes;C:\Users\Helio\OneDrive\Documentos\GIT\playwright_cucumber_test\target\classes;C:\Users\Helio\.m2\repository\com\microsoft\playwright\playwright\1.37.0\playwright-1.37.0.jar;C:\Users\Helio\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Helio\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Helio\.m2\repository\com\microsoft\playwright\driver\1.37.0\driver-1.37.0.jar;C:\Users\Helio\.m2\repository\com\microsoft\playwright\driver-bundle\1.37.0\driver-bundle-1.37.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\Helio\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\Helio\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\Helio\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Helio\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-java\7.0.0\cucumber-java-7.0.0.jar;C:\Users\Helio\.m2\repository\net\masterthought\cucumber-reporting\5.6.1\cucumber-reporting-5.6.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.1\jackson-databind-2.12.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.1\jackson-annotations-2.12.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.1\jackson-core-2.12.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.12.1\jackson-datatype-jsr310-2.12.1.jar;C:\Users\Helio\.m2\repository\org\apache\velocity\velocity-engine-core\2.3\velocity-engine-core-2.3.jar;C:\Users\Helio\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Helio\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Helio\.m2\repository\joda-time\joda-time\2.10.10\joda-time-2.10.10.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Helio\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\Helio\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\Helio\.m2\repository\org\jsoup\jsoup\1.14.2\jsoup-1.14.2.jar;C:\Users\Helio\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Helio\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Helio\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Helio\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Helio\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Helio\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Helio\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Helio\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20211018.2\owasp-java-html-sanitizer-20211018.2.jar;C:\Users\Helio\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar;C:\Users\Helio\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Helio\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\Helio\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\Helio\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\Helio\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\Helio\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar;C:\Users\Helio\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar;C:\Users\Helio\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Helio\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\Helio\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar;C:\Users\Helio\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar;C:\Users\Helio\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Helio\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar;C:\Users\Helio\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar;C:\Users\Helio\.m2\repository\org\clojure\clojure\1.10.1\clojure-1.10.1.jar;C:\Users\Helio\.m2\repository\org\clojure\spec.alpha\0.2.176\spec.alpha-0.2.176.jar;C:\Users\Helio\.m2\repository\org\clojure\core.specs.alpha\0.2.44\core.specs.alpha-0.2.44.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\Helio\OneDrive\Documentos\GIT\oracleJdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\Helio\AppData\Local\Temp\surefire14774037571282006146\surefirebooter-20260204125733131_3.jar C:\Users\Helio\AppData\Local\Temp\surefire14774037571282006146 2026-02-04T12-57-32_912-jvmRun1 surefire-20260204125733131_1tmp surefire_0-20260204125733131_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="rag.Compra#MonitorarItem3"/>
+    <property name="surefire.test.class.path" value="C:\Users\Helio\OneDrive\Documentos\GIT\playwright_cucumber_test\target\test-classes;C:\Users\Helio\OneDrive\Documentos\GIT\playwright_cucumber_test\target\classes;C:\Users\Helio\.m2\repository\com\microsoft\playwright\playwright\1.37.0\playwright-1.37.0.jar;C:\Users\Helio\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Helio\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Helio\.m2\repository\com\microsoft\playwright\driver\1.37.0\driver-1.37.0.jar;C:\Users\Helio\.m2\repository\com\microsoft\playwright\driver-bundle\1.37.0\driver-bundle-1.37.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\Helio\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\Helio\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\Helio\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\Helio\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Helio\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Helio\.m2\repository\io\cucumber\cucumber-java\7.0.0\cucumber-java-7.0.0.jar;C:\Users\Helio\.m2\repository\net\masterthought\cucumber-reporting\5.6.1\cucumber-reporting-5.6.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.1\jackson-databind-2.12.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.1\jackson-annotations-2.12.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.1\jackson-core-2.12.1.jar;C:\Users\Helio\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.12.1\jackson-datatype-jsr310-2.12.1.jar;C:\Users\Helio\.m2\repository\org\apache\velocity\velocity-engine-core\2.3\velocity-engine-core-2.3.jar;C:\Users\Helio\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Helio\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Helio\.m2\repository\joda-time\joda-time\2.10.10\joda-time-2.10.10.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Helio\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\Helio\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\Helio\.m2\repository\org\jsoup\jsoup\1.14.2\jsoup-1.14.2.jar;C:\Users\Helio\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Helio\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Helio\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Helio\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Helio\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Helio\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Helio\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Helio\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20211018.2\owasp-java-html-sanitizer-20211018.2.jar;C:\Users\Helio\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar;C:\Users\Helio\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Helio\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\Helio\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\Helio\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\Helio\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\Helio\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar;C:\Users\Helio\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar;C:\Users\Helio\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Helio\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\Helio\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar;C:\Users\Helio\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar;C:\Users\Helio\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\Helio\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Helio\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar;C:\Users\Helio\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar;C:\Users\Helio\.m2\repository\org\clojure\clojure\1.10.1\clojure-1.10.1.jar;C:\Users\Helio\.m2\repository\org\clojure\spec.alpha\0.2.176\spec.alpha-0.2.176.jar;C:\Users\Helio\.m2\repository\org\clojure\core.specs.alpha\0.2.44\core.specs.alpha-0.2.44.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Helio"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-07-15"/>
+    <property name="java.home" value="C:\Users\Helio\OneDrive\Documentos\GIT\oracleJdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Helio\OneDrive\Documentos\GIT\playwright_cucumber_test"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Helio\AppData\Local\Temp\surefire14774037571282006146\surefirebooter-20260204125733131_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.8+12-LTS-250"/>
+    <property name="user.name" value="Helio"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Users\Helio\.vscode\extensions\oracle.oracle-java-25.0.1\nbcode\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Helio\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Helio\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.8"/>
+    <property name="user.dir" value="C:\Users\Helio\OneDrive\Documentos\GIT\playwright_cucumber_test"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\Helio\OneDrive\Documentos\GIT\oracleJdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-8.0.472.8-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Helio\AppData\Local\Microsoft\WindowsApps;C:\Users\Helio\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Helio\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.8+12-LTS-250"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="MonitorarItem3" classname="rag.Compra" time="384.67">
+    <failure message="Error {&#10;  message=&apos;Browser closed.&#10;==================== Browser output: ====================&#10;&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window&#10;&lt;launched&gt; pid=24068&#10;[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.&#10;[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)&#10;  name=&apos;Error&#10;  stack=&apos;Error: Browser closed.&#10;==================== Browser output: ====================&#10;&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window&#10;&lt;launched&gt; pid=24068&#10;[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.&#10;[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)&#10;    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16&#10;    at new Promise (&lt;anonymous&gt;)&#10;    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)&#10;    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)&#10;    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)&#10;    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)&#10;    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)&#10;}" type="com.microsoft.playwright.PlaywrightException"><![CDATA[com.microsoft.playwright.PlaywrightException: 
+Error {
+  message='Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
+<launched> pid=24068
+[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
+  name='Error
+  stack='Error: Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
+<launched> pid=24068
+[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
+    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16
+    at new Promise (<anonymous>)
+    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)
+    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)
+    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)
+    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)
+    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)
+}
+	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:54)
+	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:111)
+	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:126)
+	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:102)
+	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:98)
+	at com.microsoft.playwright.impl.BrowserContextImpl.closeImpl(BrowserContextImpl.java:267)
+	at com.microsoft.playwright.impl.BrowserContextImpl.lambda$close$1(BrowserContextImpl.java:235)
+	at com.microsoft.playwright.impl.LoggingSupport.lambda$withLogging$0(LoggingSupport.java:36)
+	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:47)
+	at com.microsoft.playwright.impl.ChannelOwner.withLogging(ChannelOwner.java:87)
+	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:35)
+	at com.microsoft.playwright.impl.BrowserContextImpl.close(BrowserContextImpl.java:235)
+	at rag.Compra.MonitorarItem3(Compra.java:93)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:102)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:91)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: com.microsoft.playwright.impl.DriverException: Error {
+  message='Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
+<launched> pid=24068
+[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
+  name='Error
+  stack='Error: Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
+<launched> pid=24068
+[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
+    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16
+    at new Promise (<anonymous>)
+    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)
+    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)
+    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)
+    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)
+    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)
+}
+	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:226)
+	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:206)
+	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:109)
+	... 42 more
+]]></failure>
+    <system-out><![CDATA[
+Resultado:[]
+========================================================================================
+1 - Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z
+Valor Atual: 43c | Esperado: 38c
+Valor Atual: -1z | Esperado: 2.000.000z
+========================================================================================
+2 - Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z
+Valor Atual: 397c | Esperado: 394c
+Valor Atual: -1z | Esperado: 1z
+========================================================================================
+3 - Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z
+Valor Atual: 23c | Esperado: 22c
+Valor Atual: -1z | Esperado: 1z
+========================================================================================
+4 - Nome: Etel Amber | id: 1000328 | precoRop: 130c | precoZenny: 1z
+Valor Atual: 135c | Esperado: 129c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+5 - Nome: Etel Amethyst | id: 1000327 | precoRop: 100c | precoZenny: 1z
+Valor Atual: 105c | Esperado: 99c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+6 - Nome: Etel Topaz | id: 1000326 | precoRop: 55c | precoZenny: 1z
+Valor Atual: 52c | Esperado: 51c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+7 - Nome: Etel Aquamarine | id: 1000325 | precoRop: 29c | precoZenny: 1z
+Valor Atual: 28c | Esperado: 27c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+8 - Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z
+Valor Atual: 6.650c | Esperado: 6.649c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+9 - Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z
+Valor Atual: 9.999c | Esperado: 9.998c
+Valor Atual: -1z | Esperado: 7.000.000z
+
+----------------------------------------------------------------
+
+
+Comprar? false
+========================================================================================
+1 - Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z
+Valor Atual: 43c | Esperado: 38c
+Valor Atual: -1z | Esperado: 2.000.000z
+========================================================================================
+2 - Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z
+Valor Atual: 397c | Esperado: 394c
+Valor Atual: -1z | Esperado: 1z
+========================================================================================
+3 - Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z
+Valor Atual: 23c | Esperado: 22c
+Valor Atual: -1z | Esperado: 1z
+========================================================================================
+4 - Nome: Etel Amber | id: 1000328 | precoRop: 130c | precoZenny: 1z
+Valor Atual: 135c | Esperado: 129c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+5 - Nome: Etel Amethyst | id: 1000327 | precoRop: 100c | precoZenny: 1z
+Valor Atual: 105c | Esperado: 99c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+6 - Nome: Etel Topaz | id: 1000326 | precoRop: 55c | precoZenny: 1z
+Valor Atual: 52c | Esperado: 51c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+7 - Nome: Etel Aquamarine | id: 1000325 | precoRop: 29c | precoZenny: 1z
+Valor Atual: 28c | Esperado: 27c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+8 - Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z
+Valor Atual: 6.650c | Esperado: 6.649c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+9 - Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z
+Valor Atual: 9.999c | Esperado: 9.998c
+Valor Atual: -1z | Esperado: 7.000.000z
+
+----------------------------------------------------------------
+
+
+Comprar? false
+========================================================================================
+1 - Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z
+Valor Atual: 43c | Esperado: 38c
+Valor Atual: -1z | Esperado: 2.000.000z
+========================================================================================
+2 - Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z
+Valor Atual: 397c | Esperado: 394c
+Valor Atual: -1z | Esperado: 1z
+========================================================================================
+3 - Nome: Ametista | id: 719 | precoRop: 23c | precoZenny: 1z
+Valor Atual: 23c | Esperado: 22c
+Valor Atual: -1z | Esperado: 1z
+========================================================================================
+4 - Nome: Etel Amber | id: 1000328 | precoRop: 130c | precoZenny: 1z
+Valor Atual: 135c | Esperado: 129c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+5 - Nome: Etel Amethyst | id: 1000327 | precoRop: 100c | precoZenny: 1z
+Valor Atual: 105c | Esperado: 99c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+6 - Nome: Etel Topaz | id: 1000326 | precoRop: 55c | precoZenny: 1z
+Valor Atual: 52c | Esperado: 51c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+7 - Nome: Etel Aquamarine | id: 1000325 | precoRop: 29c | precoZenny: 1z
+Valor Atual: 28c | Esperado: 27c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+8 - Nome: Jewelry Ant Card | id: 300006 | precoRop: 6.650c | precoZenny: 1z
+Valor Atual: 6.650c | Esperado: 6.649c
+Valor Atual: -1z | Esperado: 1.000z
+========================================================================================
+9 - Nome: Essência Lapine 1ª Linha  | id: 47083 | precoRop: 9.999c | precoZenny: 9.000.000z
+Valor Atual: 9.999c | Esperado: 9.998c
+Valor Atual: -1z | Esperado: 7.000.000z
+
+----------------------------------------------------------------
+
+
+Comprar? false
+========================================================================================
+1 - Nome: Moeda de Instância | id: 30010 | precoRop: 40c | precoZenny: 5.000.000z
+Valor Atual: 43c | Esperado: 38c
+Valor Atual: -1z | Esperado: 2.000.000z
+========================================================================================
+2 - Nome: Anti Tudo [Ultimate] II | id: 70146 | precoRop: 395c | precoZenny: 1z
+Valor Atual: 397c | Esperado: 394c
+Valor Atual: -1z | Esperado: 1z
+]]></system-out>
+  </testcase>
+</testsuite>
