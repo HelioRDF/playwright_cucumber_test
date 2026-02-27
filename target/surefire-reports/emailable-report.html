@@ -9,72 +9,10 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Surefire suite</th></tr>
-<tr><td><a href="#t0">Surefire test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">392.154</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Surefire test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">94.305</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Surefire suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Surefire test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">rag.Compra</td><td><a href="#m0">MonitorarItem3</a></td><td rowspan="1">1770220661751</td><td rowspan="1">384663</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Surefire suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Surefire test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">nexoos.Extrato</td><td><a href="#m0">ConsultarExtrato</a></td><td rowspan="1">1772207624140</td><td rowspan="1">86481</td></tr></tbody>
 </table>
-<h2>Surefire test</h2><h3 id="m0">rag.Compra#MonitorarItem3</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">com.microsoft.playwright.PlaywrightException: Error {
-  message=&apos;Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-  name=&apos;Error
-  stack=&apos;Error: Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16
-    at new Promise (&lt;anonymous&gt;)
-    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)
-    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)
-    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)
-    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)
-    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)
-}
-	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:54)
-	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:111)
-	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:126)
-	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:102)
-	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:98)
-	at com.microsoft.playwright.impl.BrowserContextImpl.closeImpl(BrowserContextImpl.java:267)
-	at com.microsoft.playwright.impl.BrowserContextImpl.lambda$close$1(BrowserContextImpl.java:235)
-	at com.microsoft.playwright.impl.LoggingSupport.lambda$withLogging$0(LoggingSupport.java:36)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:47)
-	at com.microsoft.playwright.impl.ChannelOwner.withLogging(ChannelOwner.java:87)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:35)
-	at com.microsoft.playwright.impl.BrowserContextImpl.close(BrowserContextImpl.java:235)
-	at rag.Compra.MonitorarItem3(Compra.java:93)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-Caused by: com.microsoft.playwright.impl.DriverException: Error {
-  message=&apos;Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-  name=&apos;Error
-  stack=&apos;Error: Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16
-    at new Promise (&lt;anonymous&gt;)
-    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)
-    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)
-    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)
-    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)
-    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)
-}
-	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:226)
-	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:206)
-	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:109)
-	... 42 more
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Surefire test</h2><h3 id="m0">nexoos.Extrato#ConsultarExtrato</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

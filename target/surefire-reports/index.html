@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Surefire_suite" class="navigator-link">
-              <span class="suite-name border-failed">Surefire suite</span>
+              <span class="suite-name border-passed">Surefire suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -93,21 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Surefire_suite" class="hide-methods failed suite-Surefire_suite"> (hide)</a> <!-- hide-methods failed suite-Surefire_suite -->
-                      <a href="#" panel-name="suite-Surefire_suite" class="show-methods failed suite-Surefire_suite"> (show)</a> <!-- show-methods failed suite-Surefire_suite -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Surefire_suite" class="hide-methods passed suite-Surefire_suite"> (hide)</a> <!-- hide-methods passed suite-Surefire_suite -->
+                      <a href="#" panel-name="suite-Surefire_suite" class="show-methods passed suite-Surefire_suite"> (show)</a> <!-- show-methods passed suite-Surefire_suite -->
                     </span>
-                    <div class="method-list-content failed suite-Surefire_suite">
+                    <div class="method-list-content passed suite-Surefire_suite">
                       <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Surefire_suite" title="rag.Compra" class="method navigator-link" hash-for-method="MonitorarItem3">MonitorarItem3</a> <!-- method navigator-link -->
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="nexoos.Extrato" class="method navigator-link" hash-for-method="ConsultarExtrato">ConsultarExtrato</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Surefire_suite -->
+                    </div> <!-- method-list-content passed suite-Surefire_suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -119,85 +119,21 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Surefire_suite" class="panel Surefire_suite">
-          <div class="suite-Surefire_suite-class-failed">
+          <div class="suite-Surefire_suite-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">rag.Compra</span>
+              <img src="passed.png"/>
+              <span class="class-name">nexoos.Extrato</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="MonitorarItem3">
-                  </a> <!-- MonitorarItem3 -->
-                  <span class="method-name">MonitorarItem3</span>
-                  <div class="stack-trace">com.microsoft.playwright.PlaywrightException: Error {
-  message=&apos;Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-  name=&apos;Error
-  stack=&apos;Error: Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16
-    at new Promise (&lt;anonymous&gt;)
-    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)
-    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)
-    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)
-    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)
-    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)
-}
-	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:54)
-	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:111)
-	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:126)
-	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:102)
-	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:98)
-	at com.microsoft.playwright.impl.BrowserContextImpl.closeImpl(BrowserContextImpl.java:267)
-	at com.microsoft.playwright.impl.BrowserContextImpl.lambda$close$1(BrowserContextImpl.java:235)
-	at com.microsoft.playwright.impl.LoggingSupport.lambda$withLogging$0(LoggingSupport.java:36)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:47)
-	at com.microsoft.playwright.impl.ChannelOwner.withLogging(ChannelOwner.java:87)
-	at com.microsoft.playwright.impl.LoggingSupport.withLogging(LoggingSupport.java:35)
-	at com.microsoft.playwright.impl.BrowserContextImpl.close(BrowserContextImpl.java:235)
-	at rag.Compra.MonitorarItem3(Compra.java:93)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-Caused by: com.microsoft.playwright.impl.DriverException: Error {
-  message=&apos;Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-  name=&apos;Error
-  stack=&apos;Error: Browser closed.
-==================== Browser output: ====================
-&lt;launching&gt; C:\Users\Helio\AppData\Local\ms-playwright\chromium-1076\chrome-win\chrome.exe --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --user-data-dir=C:\Users\Helio\AppData\Local\Temp\playwright_chromiumdev_profile-DkPkY1 --remote-debugging-pipe --no-startup-window
-&lt;launched&gt; pid=24068
-[pid=24068][err] [24068:24036:0204/125741.661:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
-[pid=24068][err] [24068:24036:0204/125744.283:ERROR:device_event_log_impl.cc(222)] [12:57:44.282] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema n�o pode encontrar o arquivo especificado. (0x2)
-    at C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:169:16
-    at new Promise (&lt;anonymous&gt;)
-    at CRSession.send (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crConnection.js:165:12)
-    at CRBrowserContext.doClose (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\chromium\crBrowser.js:456:34)
-    at async CRBrowserContext.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\browserContext.js:342:9)
-    at async BrowserContextDispatcher.close (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\browserContextDispatcher.js:253:5)
-    at async DispatcherConnection.dispatch (C:\Users\Helio\AppData\Local\Temp\playwright-java-11169610459953064188\package\lib\server\dispatchers\dispatcher.js:313:22)
-}
-	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:226)
-	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:206)
-	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:109)
-	... 42 more
-... Removed 30 stack frames
-</div> <!-- stack-trace -->
+                  <a name="ConsultarExtrato">
+                  </a> <!-- ConsultarExtrato -->
+                  <span class="method-name">ConsultarExtrato</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Surefire_suite-class-failed -->
+          </div> <!-- suite-Surefire_suite-class-passed -->
         </div> <!-- panel Surefire_suite -->
         <div panel-name="test-xml-Surefire_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -214,7 +150,7 @@ Caused by: com.microsoft.playwright.impl.DriverException: Error {
       &lt;/method-selector&gt;
     &lt;/method-selectors&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;rag.Compra&quot;/&gt;
+      &lt;class name=&quot;nexoos.Extrato&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Surefire test --&gt;
 &lt;/suite&gt; &lt;!-- Surefire suite --&gt;
@@ -256,14 +192,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'MonitorarItem3')
-data.setCell(0, 2, 'rag.Compra')
-data.setCell(0, 3, 384663);
+data.setCell(0, 1, 'ConsultarExtrato')
+data.setCell(0, 2, 'nexoos.Extrato')
+data.setCell(0, 3, 86481);
 window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 6 minutes</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Surefire_suite">
               </div> <!-- times-div-Surefire_suite -->
             </div> <!-- times-div -->
@@ -289,28 +225,26 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">rag.Compra</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">nexoos.Extrato</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">launchBrowser</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">createContextAndPage</span>
-                <span class="method-start">7422 ms</span>
+                <span class="method-start">7749 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">MonitorarItem3</span>
-                <span class="method-start">7446 ms</span>
+                <span class="method-name">ConsultarExtrato</span>
+                <span class="method-start">7806 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">closeContext</span>
-                <span class="method-start">392116 ms</span>
+                <span class="method-start">94288 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-class after">
                 <span class="method-name">closeBrowser</span>
-                <span class="method-start">392118 ms</span>
+                <span class="method-start">94289 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

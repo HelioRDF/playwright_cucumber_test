@@ -1,192 +1,53 @@
 
-Moeda de Instância (30010)  | Rops: 40c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
+
+ ---Moeda de Instância (30010)  | Rops: 17c | Zenny: -1
+Bolsa de Rubis [100kk] (40400)  | Rops: 1.644c | Zenny: -1
+Bolsa de Diamantes [1b] (40097)  | Rops: 16.000c | Zenny: -1
+Essência Primordial (50145)  | Rops: 307c | Zenny: -1
+
+ ---[Extreme] Esfera da Fenda (33390)  | Rops: 119c | Zenny: -1
+Temporal Cape-LT [1]  (480312)  | Rops: 19.500c | Zenny: -1
+Refinadora Complexa (33360)  | Rops: 42.000c | Zenny: -1
+Mini-Refinadora (33362)  | Rops: 8.400c | Zenny: -1
+Crown of Beelzebub (400110)  | Rops: 18.000c | Zenny: -1
+Curativo YSF01 [1] (19446)  | Rops: 11.300c | Zenny: -1
+Ghost Fire (420199)  | Rops: 270.000c | Zenny: -1
+Ameretat [1] (490290)  | Rops: 140.000c | Zenny: -1
+Carta Flor do Luar (4131)  | Rops: 13.000c | Zenny: -1
+Carta Belzebu (4145)  | Rops: 20.000c | Zenny: -1
+Ovo de Corrupted Dark Lord (92680)  | Rops: 299.999c | Zenny: -1
+
+ ---White Knight Egg (9134)  | Rops: 19.000c | Zenny: -1
+Cristal Shadow Colar Grade A (44498)  | Rops: 300.000c | Zenny: -1
+Cristal Shadow Armadura Grade A (44502)  | Rops: 54.000c | Zenny: -1
+Cristal Shadow Arma Grade A (44587)  | Rops: 897.900c | Zenny: -1
+Cristal Shadow Escudo Grade A (44588)  | Rops: 24.000c | Zenny: -1
+Cristal Shadow Bota Grade A (44592)  | Rops: 149.000c | Zenny: -1
+
+ ---Hero (29509)  | Rops: 32.000c | Zenny: -1
+Arcana (29585)  | Rops: 59.000c | Zenny: -1
+
+ ---Pedra de Encantamento Epifania (47777)  | Rops: 58.499c | Zenny: -1
+
+ ---Raiva JRO (610198)  | Rops: 40.000c | Zenny: -1
 -------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 40c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 36c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
-Anti Tudo [Ultimate] II (70146)  | Rops: 388c | Zenny: -1
-Ametista (719)  | Rops: 23c | Zenny: -1
-Etel Amber (1000328)  | Rops: 135c | Zenny: -1
-Etel Amethyst (1000327)  | Rops: 105c | Zenny: -1
-Etel Topaz (1000326)  | Rops: 52c | Zenny: -1
-Etel Aquamarine (1000325)  | Rops: 28c | Zenny: -1
-Jewelry Ant Card (300006)  | Rops: 6.399c | Zenny: -1
-Essência Lapine 1ª Linha  (47083)  | Rops: 9.998c | Zenny: -1
--------------------------------------------------------------------------
-Moeda de Instância (30010)  | Rops: 39c | Zenny: -1
+
+ ---Moeda de Instância (30010)  | Rops: 17c | Zenny: -1
+Bolsa de Rubis [100kk] (40400)  | Rops: 1.644c | Zenny: -1
+Bolsa de Diamantes [1b] (40097)  | Rops: 16.000c | Zenny: -1
+Essência Primordial (50145)  | Rops: 307c | Zenny: -1
+
+ ---[Extreme] Esfera da Fenda (33390)  | Rops: 119c | Zenny: -1
+Temporal Cape-LT [1]  (480312)  | Rops: 19.500c | Zenny: -1
+Refinadora Complexa (33360)  | Rops: 42.000c | Zenny: -1
+Mini-Refinadora (33362)  | Rops: 8.400c | Zenny: -1
+Crown of Beelzebub (400110)  | Rops: 18.000c | Zenny: -1
+Curativo YSF01 [1] (19446)  | Rops: 11.300c | Zenny: -1
+Ghost Fire (420199)  | Rops: 270.000c | Zenny: -1
+Ameretat [1] (490290)  | Rops: 140.000c | Zenny: -1
+Carta Flor do Luar (4131)  | Rops: 13.000c | Zenny: -1
+Carta Belzebu (4145)  | Rops: 20.000c | Zenny: -1
+Ovo de Corrupted Dark Lord (92680)  | Rops: 299.999c | Zenny: -1
+
+ ---White Knight Egg (9134)  | Rops: 19.000c | Zenny: -1
+Cristal Shadow Colar Grade A (44498)  | Rops: 300.000c | Zenny: -1

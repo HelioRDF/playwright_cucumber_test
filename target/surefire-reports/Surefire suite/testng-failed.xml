@@ -6,9 +6,9 @@
       <class name="rag.Compra">
         <methods>
           <include name="closeContext"/>
+          <include name="MonitorarItem"/>
           <include name="createContextAndPage"/>
           <include name="launchBrowser"/>
-          <include name="MonitorarItem3"/>
           <include name="closeBrowser"/>
         </methods>
       </class> <!-- rag.Compra -->
