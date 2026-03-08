@@ -81,7 +81,7 @@ public class Extrato {
                 double valorFinal = Double.parseDouble(valorLimpo);
                 if (texto.contains("Remuneração") || texto.contains("000") && valorFinal > 0) {
                     total += valorFinal;
-                } else if (texto.contains("Saque feito")) {
+                } else if (texto.contains("Saque feito") || texto.contains("Resgate")) {
                     saque += valorFinal;
                 } else if (texto.contains("janeiro") && valorFinal > 0) {
                     System.out.println("-----" + texto + " | " + valorFinal + " | " + valorRecebido);
