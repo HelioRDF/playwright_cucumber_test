@@ -1,0 +1,10 @@
+<?xml version="1.0"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40"><Styles><Style ss:ID="sHeader"><Font ss:Bold="1"/><Interior ss:Color="#FFD966" ss:Pattern="Solid"/><Alignment ss:Vertical="Center"/></Style><Style ss:ID="sWrap"><Alignment ss:Vertical="Top" ss:WrapText="1"/></Style></Styles><Worksheet ss:Name="Multi-Busca"><Table><Column ss:AutoFitWidth="0" ss:Width="220"/>
+      <Column ss:AutoFitWidth="0" ss:Width="360"/>
+      <Column ss:AutoFitWidth="0" ss:Width="120"/>
+      <Column ss:AutoFitWidth="0" ss:Width="140"/>
+      <Column ss:AutoFitWidth="0" ss:Width="220"/>
+      <Column ss:AutoFitWidth="0" ss:Width="220"/>
+      <Column ss:AutoFitWidth="0" ss:Width="260"/>
+      <Column ss:AutoFitWidth="0" ss:Width="170"/>
+      <Column ss:AutoFitWidth="0" ss:Width="130"/>
+      <Column ss:AutoFitWidth="0" ss:Width="260"/><Row><Cell ss:StyleID="sHeader"><Data ss:Type="String">nome</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">endereco</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">telefone_nacional</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">telefone_internacional</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">site</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">instagram</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">maps_url</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">place_id</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">tipo_primario</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">tipos</Data></Cell></Row></Table></Worksheet></Workbook>

@@ -10,7 +10,7 @@ public class VerificaInternet {
     }
 
     public static Boolean acessaInternet() {
-        String hostParaTestar = "www.google.com"; // Um host conhecido na internet
+        String hostParaTestar = "www.historyreborn.net"; // Um host conhecido na internet
         int timeout = 5000; // Tempo limite em milissegundos (3 segundos)
         boolean internet = false;
 

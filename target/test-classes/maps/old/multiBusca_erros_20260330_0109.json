@@ -1,0 +1,386 @@
+[
+  {
+    "placeId": "ChIJW2uh9SZJzpQRjKbEqDMlW4M",
+    "error": "Place Details falhou para ChIJW2uh9SZJzpQRjKbEqDMlW4M: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJgU1ajYtJzpQR2HiC4eBleVU",
+    "error": "Place Details falhou para ChIJgU1ajYtJzpQR2HiC4eBleVU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJX1BdTgVJzpQRU2i6Aom4aLs",
+    "error": "Place Details falhou para ChIJX1BdTgVJzpQRU2i6Aom4aLs: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJu_PtIcdJzpQRTpnItWp3H3I",
+    "error": "Place Details falhou para ChIJu_PtIcdJzpQRTpnItWp3H3I: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJbeTq09NKzpQRRC_KIIKpgSQ",
+    "error": "Place Details falhou para ChIJbeTq09NKzpQRRC_KIIKpgSQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ0_rvQJFJzpQRBDoU6VK1qWg",
+    "error": "Place Details falhou para ChIJ0_rvQJFJzpQRBDoU6VK1qWg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJT7Lcqv9JzpQRQmIoppRauJQ",
+    "error": "Place Details falhou para ChIJT7Lcqv9JzpQRQmIoppRauJQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJKxnQhhBLzpQR8EHcp2xGgo4",
+    "error": "Place Details falhou para ChIJKxnQhhBLzpQR8EHcp2xGgo4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJBaz02ptJzpQREEdK2UknllI",
+    "error": "Place Details falhou para ChIJBaz02ptJzpQREEdK2UknllI: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ95etgiVJzpQRIh_tPYi6QE8",
+    "error": "Place Details falhou para ChIJ95etgiVJzpQRIh_tPYi6QE8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJK08mdMo3zpQRcIdfXci1tA8",
+    "error": "Place Details falhou para ChIJK08mdMo3zpQRcIdfXci1tA8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJYabUS_tJzpQRSmTmBZE9Otw",
+    "error": "Place Details falhou para ChIJYabUS_tJzpQRSmTmBZE9Otw: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJfawbg5dJzpQRVaD9JxIB_RQ",
+    "error": "Place Details falhou para ChIJfawbg5dJzpQRVaD9JxIB_RQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJe5LTGcFJzpQRJZ9_rZXezrg",
+    "error": "Place Details falhou para ChIJe5LTGcFJzpQRJZ9_rZXezrg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJpclF2RhJzpQRaYyZiIt0Z7Y",
+    "error": "Place Details falhou para ChIJpclF2RhJzpQRaYyZiIt0Z7Y: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ0UDu3QJJzpQRWUZa6kotQ_c",
+    "error": "Place Details falhou para ChIJ0UDu3QJJzpQRWUZa6kotQ_c: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJP9uTaI5JzpQRCvVEVeI1lQ4",
+    "error": "Place Details falhou para ChIJP9uTaI5JzpQRCvVEVeI1lQ4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJQVZPJgBJzpQR16RsTmVh-J4",
+    "error": "Place Details falhou para ChIJQVZPJgBJzpQR16RsTmVh-J4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJe-HtSABJzpQRM8OCpc4J3G4",
+    "error": "Place Details falhou para ChIJe-HtSABJzpQRM8OCpc4J3G4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJB-XNWco3zpQRoKb84x0IL4U",
+    "error": "Place Details falhou para ChIJB-XNWco3zpQRoKb84x0IL4U: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJyexD-M83zpQRmrMQW7FKCxU",
+    "error": "Place Details falhou para ChIJyexD-M83zpQRmrMQW7FKCxU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ9xM48TNIzpQReuPcHSzc_Io",
+    "error": "Place Details falhou para ChIJ9xM48TNIzpQReuPcHSzc_Io: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ7fA4k-pJzpQRkjlHkKxRYi0",
+    "error": "Place Details falhou para ChIJ7fA4k-pJzpQRkjlHkKxRYi0: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJm3qxpSRLzpQRcw-lnfLzLqI",
+    "error": "Place Details falhou para ChIJm3qxpSRLzpQRcw-lnfLzLqI: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJYbWIQDdLzpQRPDCFegm-GwE",
+    "error": "Place Details falhou para ChIJYbWIQDdLzpQRPDCFegm-GwE: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ09TkryU3zpQRv3kUPdc-EP0",
+    "error": "Place Details falhou para ChIJ09TkryU3zpQRv3kUPdc-EP0: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJh4ibkTFJzpQR2oVIFykdxyg",
+    "error": "Place Details falhou para ChIJh4ibkTFJzpQR2oVIFykdxyg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJLdtBi4A3zpQRYPZ4L25fHaY",
+    "error": "Place Details falhou para ChIJLdtBi4A3zpQRYPZ4L25fHaY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJt0s6tJBJzpQRDZzq44bwwSU",
+    "error": "Place Details falhou para ChIJt0s6tJBJzpQRDZzq44bwwSU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJX4CMJY5IzpQRlD0BPwMQ1u0",
+    "error": "Place Details falhou para ChIJX4CMJY5IzpQRlD0BPwMQ1u0: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJQSf4W661z5QRNifoATpT9F8",
+    "error": "Place Details falhou para ChIJQSf4W661z5QRNifoATpT9F8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJZTDj4CZLzpQRy458VAIlv80",
+    "error": "Place Details falhou para ChIJZTDj4CZLzpQRy458VAIlv80: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJpRDrwbBLzpQR5B_qrM6JmEQ",
+    "error": "Place Details falhou para ChIJpRDrwbBLzpQR5B_qrM6JmEQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJyU1HANhJzpQRQ6ytCKZ4_Js",
+    "error": "Place Details falhou para ChIJyU1HANhJzpQRQ6ytCKZ4_Js: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ5632Vk9JzpQRvaT3lGVcpq8",
+    "error": "Place Details falhou para ChIJ5632Vk9JzpQRvaT3lGVcpq8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJTaf045RJzpQRbz284OnE8rQ",
+    "error": "Place Details falhou para ChIJTaf045RJzpQRbz284OnE8rQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJIWubpW1JzpQRVdMds0PXxaw",
+    "error": "Place Details falhou para ChIJIWubpW1JzpQRVdMds0PXxaw: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJqUo4MSVLzpQRO59dEn92O08",
+    "error": "Place Details falhou para ChIJqUo4MSVLzpQRO59dEn92O08: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJQVTwrzVIzpQRfJdYx5p-Nfc",
+    "error": "Place Details falhou para ChIJQVTwrzVIzpQRfJdYx5p-Nfc: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJQQWBqSRLzpQRFiSG8SmciE0",
+    "error": "Place Details falhou para ChIJQQWBqSRLzpQRFiSG8SmciE0: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJEXHh_zE2zpQREq95YqILsOs",
+    "error": "Place Details falhou para ChIJEXHh_zE2zpQREq95YqILsOs: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJycHwWA1LzpQRfVL8HnoHDu4",
+    "error": "Place Details falhou para ChIJycHwWA1LzpQRfVL8HnoHDu4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJA7QbhuNJzpQRznsXr2bIsLw",
+    "error": "Place Details falhou para ChIJA7QbhuNJzpQRznsXr2bIsLw: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJOeMy3U1JzpQRXg86mG84hqg",
+    "error": "Place Details falhou para ChIJOeMy3U1JzpQRXg86mG84hqg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJf6bMp89TzpQRWloLjJX9CZY",
+    "error": "Place Details falhou para ChIJf6bMp89TzpQRWloLjJX9CZY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJKwjYnQNJzpQRW3OXHVnN2uY",
+    "error": "Place Details falhou para ChIJKwjYnQNJzpQRW3OXHVnN2uY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ5e-mpnJJzpQRe24_rviyMkY",
+    "error": "Place Details falhou para ChIJ5e-mpnJJzpQRe24_rviyMkY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJoVHiujpLzpQRudXINbUIaQ0",
+    "error": "Place Details falhou para ChIJoVHiujpLzpQRudXINbUIaQ0: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJv6X0Ur03zpQRgqoI8ISw-as",
+    "error": "Place Details falhou para ChIJv6X0Ur03zpQRgqoI8ISw-as: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ2XUz4ZRJzpQRnS2FLZ7RW4Q",
+    "error": "Place Details falhou para ChIJ2XUz4ZRJzpQRnS2FLZ7RW4Q: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJNyPLGq60z5QRZVIBz9yKujg",
+    "error": "Place Details falhou para ChIJNyPLGq60z5QRZVIBz9yKujg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJJXys-H1LzpQR1AJQy1GwhSo",
+    "error": "Place Details falhou para ChIJJXys-H1LzpQR1AJQy1GwhSo: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJA99rxvlJzpQRQBnStLTYD7c",
+    "error": "Place Details falhou para ChIJA99rxvlJzpQRQBnStLTYD7c: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJnQ6nSrJLzpQRtNW1Tk4Wfpk",
+    "error": "Place Details falhou para ChIJnQ6nSrJLzpQRtNW1Tk4Wfpk: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJW1LrX2RJzpQRq2_miUTYktM",
+    "error": "Place Details falhou para ChIJW1LrX2RJzpQRq2_miUTYktM: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJC-fta-JJzpQRiB3aDsprE7U",
+    "error": "Place Details falhou para ChIJC-fta-JJzpQRiB3aDsprE7U: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJWY3QGRlJzpQRZNdJjfSGrD4",
+    "error": "Place Details falhou para ChIJWY3QGRlJzpQRZNdJjfSGrD4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJsTGmqEY5zpQRcxpBELGZoaE",
+    "error": "Place Details falhou para ChIJsTGmqEY5zpQRcxpBELGZoaE: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJZwLFH5VJzpQRl42nkicaNPU",
+    "error": "Place Details falhou para ChIJZwLFH5VJzpQRl42nkicaNPU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJF0pk4gVJzpQRCmecMNc0pWs",
+    "error": "Place Details falhou para ChIJF0pk4gVJzpQRCmecMNc0pWs: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJreU80oZJzpQRi4jqGXBPsbs",
+    "error": "Place Details falhou para ChIJreU80oZJzpQRi4jqGXBPsbs: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJrxIEaXBJzpQRHHG5ve4lu3Q",
+    "error": "Place Details falhou para ChIJrxIEaXBJzpQRHHG5ve4lu3Q: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJzfS-WVNJzpQRGtDW_ijAyW4",
+    "error": "Place Details falhou para ChIJzfS-WVNJzpQRGtDW_ijAyW4: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ03Z9Y65JzpQRWqEZhttx7dM",
+    "error": "Place Details falhou para ChIJ03Z9Y65JzpQRWqEZhttx7dM: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJHWh2AJRJzpQROU-wNmIdCwQ",
+    "error": "Place Details falhou para ChIJHWh2AJRJzpQROU-wNmIdCwQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ87ba0MJJzpQRfLGBjgNXk0U",
+    "error": "Place Details falhou para ChIJ87ba0MJJzpQRfLGBjgNXk0U: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJM0tAf0w3zpQRbn1Hai0SI_g",
+    "error": "Place Details falhou para ChIJM0tAf0w3zpQRbn1Hai0SI_g: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJX4UjlDU2zpQRZ02VXSve9WY",
+    "error": "Place Details falhou para ChIJX4UjlDU2zpQRZ02VXSve9WY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJhQTa2tNRzpQR4_3IM-t4B3w",
+    "error": "Place Details falhou para ChIJhQTa2tNRzpQR4_3IM-t4B3w: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJHcbHQZFJzpQRyH9KRn71Fg8",
+    "error": "Place Details falhou para ChIJHcbHQZFJzpQRyH9KRn71Fg8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJn0Y8aO9JzpQRoh_08aQthLI",
+    "error": "Place Details falhou para ChIJn0Y8aO9JzpQRoh_08aQthLI: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ53KGxY9IzpQRhoiOHv492iQ",
+    "error": "Place Details falhou para ChIJ53KGxY9IzpQRhoiOHv492iQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJF9VDYoBJzpQRzBBXWilg34I",
+    "error": "Place Details falhou para ChIJF9VDYoBJzpQRzBBXWilg34I: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJU0iEYD9JzpQRED2Fzcd6z_8",
+    "error": "Place Details falhou para ChIJU0iEYD9JzpQRED2Fzcd6z_8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJhyqIzsZJzpQRjOtsjrLCaSE",
+    "error": "Place Details falhou para ChIJhyqIzsZJzpQRjOtsjrLCaSE: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ-QdW1cFJzpQRvzC_89IdEHU",
+    "error": "Place Details falhou para ChIJ-QdW1cFJzpQRvzC_89IdEHU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ_X7ek0tIzpQRkzChiQkEARY",
+    "error": "Place Details falhou para ChIJ_X7ek0tIzpQRkzChiQkEARY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJmR6gFcpJzpQRw_i297uW-_8",
+    "error": "Place Details falhou para ChIJmR6gFcpJzpQRw_i297uW-_8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ1YoHZsJJzpQRHUb9NwO36ws",
+    "error": "Place Details falhou para ChIJ1YoHZsJJzpQRHUb9NwO36ws: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJncYXc5o3zpQR--ekoYqyr28",
+    "error": "Place Details falhou para ChIJncYXc5o3zpQR--ekoYqyr28: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJES7J7kNJzpQRARorndk0vIU",
+    "error": "Place Details falhou para ChIJES7J7kNJzpQRARorndk0vIU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJASNJlUtIzpQRY0WY-OD3dbg",
+    "error": "Place Details falhou para ChIJASNJlUtIzpQRY0WY-OD3dbg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJBxDHMnhJzpQRyEDEYFUYA98",
+    "error": "Place Details falhou para ChIJBxDHMnhJzpQRyEDEYFUYA98: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ2z4gtNNOzpQRjjnP0XtrRhg",
+    "error": "Place Details falhou para ChIJ2z4gtNNOzpQRjjnP0XtrRhg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJS6SdljpLzpQR6z6sujeZNWk",
+    "error": "Place Details falhou para ChIJS6SdljpLzpQR6z6sujeZNWk: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJsXV3pgFLzpQRNruL5ODvGWo",
+    "error": "Place Details falhou para ChIJsXV3pgFLzpQRNruL5ODvGWo: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJ022IjudLzpQR4-A7BLYdozc",
+    "error": "Place Details falhou para ChIJ022IjudLzpQR4-A7BLYdozc: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJjVD_sRhLzpQR8LQgA9KdXfQ",
+    "error": "Place Details falhou para ChIJjVD_sRhLzpQR8LQgA9KdXfQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJc7ykc2RLzpQRQ8vJ2H-mDbg",
+    "error": "Place Details falhou para ChIJc7ykc2RLzpQRQ8vJ2H-mDbg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJs7sxECVLzpQRwcVtE0wHWvg",
+    "error": "Place Details falhou para ChIJs7sxECVLzpQRwcVtE0wHWvg: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJY9SGj45NzpQRU9A0z4CjtnQ",
+    "error": "Place Details falhou para ChIJY9SGj45NzpQRU9A0z4CjtnQ: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJb6nivdxLzpQRh-S-WNGbNmM",
+    "error": "Place Details falhou para ChIJb6nivdxLzpQRh-S-WNGbNmM: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJYdP4supLzpQRRfH5u_nQJYY",
+    "error": "Place Details falhou para ChIJYdP4supLzpQRRfH5u_nQJYY: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJXU3ZnTRLzpQRck52ZB8N1YU",
+    "error": "Place Details falhou para ChIJXU3ZnTRLzpQRck52ZB8N1YU: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJl_gdBYBJzpQROestYc8aUB8",
+    "error": "Place Details falhou para ChIJl_gdBYBJzpQROestYc8aUB8: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "placeId": "ChIJO_Al0edLzpQRKl0kRP8Lrvc",
+    "error": "Place Details falhou para ChIJO_Al0edLzpQRKl0kRP8Lrvc: 400 - {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"id,displayName,formattedAddress,nationalPhoneNumber,internationalPhoneNumber,websiteUri,googleMapsUri,primaryType,types,socialMedia\",\n            \"description\": \"Error expanding 'fields' parameter. Cannot find matching fields for path 'socialMedia'.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  }
+]

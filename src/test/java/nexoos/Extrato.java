@@ -32,6 +32,7 @@ public class Extrato {
         page.navigate(link);
         page.waitForTimeout(2000);
         page.locator("#email").fill("heliordf@hotmail.com");
+        page.waitForTimeout(5000);
         String pass = System.getenv("PASSNEXOOS");
         page.locator("#password").fill(pass);
         page.getByText("Entrar").click();

@@ -1,0 +1,32 @@
+{
+  "cidade": "Parelheiros, SP",
+  "categoria": "pizzaria",
+  "timestamp": "2026-03-30T04:12:53.256Z",
+  "queries": [
+    {
+      "query": "pizzaria em Parelheiros, SP",
+      "resultCount": 60,
+      "uniqueIds": 60
+    },
+    {
+      "query": "pizzaria Parelheiros, SP",
+      "resultCount": 60,
+      "uniqueIds": 60
+    },
+    {
+      "query": "restaurante pizzaria Parelheiros, SP",
+      "resultCount": 60,
+      "uniqueIds": 60
+    },
+    {
+      "query": "pizzaria perto de Parelheiros, SP",
+      "resultCount": 60,
+      "uniqueIds": 60
+    }
+  ],
+  "consolidatedStats": {
+    "totalResultsAcrossAllQueries": 240,
+    "totalUniqueIds": 93,
+    "duplicatesRemoved": 147
+  }
+}
