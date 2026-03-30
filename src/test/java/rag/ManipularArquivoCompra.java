@@ -75,14 +75,14 @@ public class ManipularArquivoCompra {
         }
     }
 
-    public static void salvarItemResumo(Item item, String valorAtualRops, String valorAtualZenny) {
+    public static void salvarItemResumo(String comprar, Item item, String valorAtualRops, String valorAtualZenny) {
         // Agora, as linhas do arquivo estão na variável 'linhasDoArquivo'
         BufferedWriter writer;
 
         try {
             writer = new BufferedWriter(new FileWriter(nomeDoArquivo2));
             if (item != null) {
-                linhasDoArquivo2.add(item.nome + " (" + item.id + ") " + " | Rops: " + valorAtualRops + " | Zenny: " + valorAtualZenny);
+                linhasDoArquivo2.add(comprar + item.nome + " (" + item.id + ") " + " | Rops: " + valorAtualRops + " | Zenny: " + valorAtualZenny);
                 for (String linha : linhasDoArquivo2) {
                     if (!linha.isEmpty()) {
                         writer.write("\n" + linha);

@@ -91,6 +91,7 @@ public class ItemOld {
         return valorFormatado;
     }
 
+    /*
     public static ArrayList<Item> listaDeItens() {
         // Equipamentos
         ArrayList<Item> itens = new ArrayList<>();
@@ -103,11 +104,11 @@ public class ItemOld {
         itens.add(new Item("Echarpe do Paraíso", 19381, 3500, 2000, 1, 1));
         itens.add(new Item("Echarpe Misteriosa", 19499, 7000, 5000, 1, 1));
         itens.add(new Item("Martelo de Fundição Sombrio", 23926, 28000, 20000, 1, 1));
-
+        
         //WL
         itens.add(new Item("Mental Expansion Ring [1]", 490079, 10000, 8000, 1, 1));
         itens.add(new Item("Memento Mori [1]", 490207, 350000, 200000, 1, 1));
-
+        
         // Moedas e Vips
         itens.add(new Item("Bolsa de Rubis [100kk]", 40400, 1900, 1600, 1, 1));
         itens.add(new Item("Bolsa de Diamantes [1b]", 40097, 19000, 16000, 1, 1));
@@ -119,7 +120,7 @@ public class ItemOld {
         itens.add(new Item("Cristal Shadow Arma Grade D", 44581, 480000, 200000, 5000000, 1000000));
         itens.add(new Item("Cristal Shadow Escudo Grade D", 44582, 20000, 10000, 5000000, 1000000));
         itens.add(new Item("Cristal Shadow Bota Grade D", 44589, 160.000, 100.000, 5000000, 1000000));
-
+        
         // Cartas
         itens.add(new Item("The Hanged Man Card", 27366, 5000, 2500, 1, 1));
         itens.add(new Item("Carta Elvira", 4577, 4000, 2500, 1, 1));
@@ -133,7 +134,7 @@ public class ItemOld {
         itens.add(new Item("Carta Arcana Kathryne", 4678, 12000, 6000, 1, 1));
         itens.add(new Item("Carta Cavaleiro Rúnico Seyren", 4679, 14000, 6000, 1, 1));
         itens.add(new Item("Contaminated Wanderer Card", 27361, 2200, 1000, 1, 1));
-
+        
         // Minerios
         itens.add(new Item("Omni-Oridecon", 6438, 700, 400, 1, 1));
         itens.add(new Item("Super Omni-Oridecon", 70001, 1400, 1200, 1, 1));
@@ -142,13 +143,13 @@ public class ItemOld {
         itens.add(new Item("Mega-Elunium", 6439, 490, 350, 12000000, 10000000));
         itens.add(new Item("Super Mega-Elunium", 70002, 3300, 2800, 1, 1));
         itens.add(new Item("Etel Amber", 1000328, 300, 200, 11000000, 10000000));
-
+        
         itens.add(new Item("Black Candy", 70058, 40000, 20000, 0, 0));
         itens.add(new Item("Bênção do Ferreiro", 6635, 120, 100, 9000000, 7000000));
         itens.add(new Item("Manual de Mascar", 14799, 2200, 1700, 1, 1));
         itens.add(new Item("Caixa de Areia de Bruxa [30k]", 11167, 5000, 4000, 300000000, 280000000));
         itens.add(new Item("Elixir Carnavalesco", 11248, 2100, 1500, 1, 1));
-
+        
         // Pets
         itens.add(new Item("Sakray", 92560, 300000, 200000, 1, 1));
         itens.add(new Item("Ceifador Ankou", 92570, 300000, 200000, 1, 1));
@@ -175,8 +176,8 @@ public class ItemOld {
         itens.add(new Item("Lilith", 92960, 300000, 200000, 1, 1));
         itens.add(new Item("Ovo de Yortus Bailiff", 93336, 300000, 200000, 1, 1));
         itens.add(new Item("Deusa Hera", 92960, 300000, 200000, 1, 1));
-
-        return itens;
+        
+        return 0
     }
-
+     */
 }

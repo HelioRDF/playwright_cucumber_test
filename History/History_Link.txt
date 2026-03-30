@@ -1,3 +1,25 @@
 
+<<<<<<< HEAD
 http://historyreborn.net/?module=item&action=view&id=111111
 http://historyreborn.net/?module=item&action=view&id=111213
+=======
+http://historyreborn.net/?module=item&action=view&id=47083
+http://historyreborn.net/?module=item&action=view&id=47086
+http://historyreborn.net/?module=item&action=view&id=47777
+http://historyreborn.net/?module=item&action=view&id=50000
+http://historyreborn.net/?module=item&action=view&id=50000
+http://historyreborn.net/?module=item&action=view&id=50030
+http://historyreborn.net/?module=item&action=view&id=50086
+http://historyreborn.net/?module=item&action=view&id=50130
+http://historyreborn.net/?module=item&action=view&id=50145
+http://historyreborn.net/?module=item&action=view&id=50301
+http://historyreborn.net/?module=item&action=view&id=50318
+http://historyreborn.net/?module=item&action=view&id=50330
+http://historyreborn.net/?module=item&action=view&id=51118
+http://historyreborn.net/?module=item&action=view&id=51121
+http://historyreborn.net/?module=item&action=view&id=51123
+http://historyreborn.net/?module=item&action=view&id=51147
+http://historyreborn.net/?module=item&action=view&id=51148
+http://historyreborn.net/?module=item&action=view&id=51166
+http://historyreborn.net/?module=item&action=view&id=51167
+>>>>>>> 660911f2f2ac0cb1de83563634e6334135780d67

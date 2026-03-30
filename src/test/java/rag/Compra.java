@@ -22,7 +22,7 @@ public class Compra {
     Page page;
 
     @Test
-    void MonitorarItem3() {
+    void MonitorarItem() {
         boolean loop = true;
         int intervalo = 3000;
         ManipularArquivoCompra.DadosDoArquivo();
@@ -31,11 +31,16 @@ public class Compra {
             boolean comprar = false;
 
             int contador = 0;
-            for (Item item : Item.listaDeItens3()) {
+            for (Item item : Item.listaDeItens()) {
+                if (!item.isAtivo()) {
+
+                    continue;
+                }
                 playwright = Playwright.create();
 
                 context = browser.newContext();
                 page = context.newPage();
+
                 while (!VerificaInternet.acessaInternet()) {
                     page.waitForTimeout(10000);
                 }
@@ -69,22 +74,28 @@ public class Compra {
                         valorAtualFormatado = tabela.replaceAll("[^0-9]", "");
                         valorAtualRops = Integer.parseInt(valorAtualFormatado);
                     }
-                    ManipularArquivoCompra.salvarItemResumo(item, Item.valorFormatado(valorAtualRops) + "c", Item.valorFormatado(valorAtualZenny));
                     System.out.println(contador + " - " + item.toString());
                     System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualRops) + "c | Esperado: "
                             + Item.valorFormatado(item.bomPrecoRop) + "c");
                     System.out.println("Valor Atual: " + Item.valorFormatado(valorAtualZenny) + "z | Esperado: "
                             + Item.valorFormatado(item.bomPrecoZenny) + "z");
+                    String compraResumo = "";
                     if (valorAtualRops != -1 && valorAtualRops <= item.bomPrecoRop) {
-                        alertar("Rop", link);
+                        compraResumo = "\n ---";
+                        alertar("\nRop", link);
                         ManipularArquivoCompra.salvarItem(item, valorAtualRops + "c");
                         comprar = true;
                     }
+
                     if (valorAtualZenny != -1 && valorAtualZenny <= item.bomPrecoZenny) {
-                        alertar("Zenny", link);
+                        compraResumo = "\n ---";
+                        alertar("\nZenny", link);
                         ManipularArquivoCompra.salvarItem(item, valorAtualZenny + "c");
                         comprar = true;
                     }
+                    ManipularArquivoCompra.salvarItemResumo(compraResumo, item, Item.valorFormatado(valorAtualRops) + "c",
+                            Item.valorFormatado(valorAtualZenny)
+                    );
                     page.waitForTimeout(intervalo);
 
                 } catch (Exception e) {
