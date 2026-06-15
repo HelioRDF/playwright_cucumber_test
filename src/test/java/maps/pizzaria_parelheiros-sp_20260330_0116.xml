@@ -1,93 +1,1472 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:o="urn:schemas-microsoft-com:office:office"
-  xmlns:x="urn:schemas-microsoft-com:office:excel"
-  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:html="http://www.w3.org/TR/REC-html40">
-  <Styles>
-    <Style ss:ID="sHeader">
-      <Font ss:Bold="1"/>
-      <Interior ss:Color="#D9E1F2" ss:Pattern="Solid"/>
-      <Alignment ss:Vertical="Center"/>
-    </Style>
-    <Style ss:ID="sWrap">
-      <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-    </Style>
-  </Styles>
-  <Worksheet ss:Name="Resultados">
-    <Table>
-      <Column ss:AutoFitWidth="0" ss:Width="220"/>
-      <Column ss:AutoFitWidth="0" ss:Width="360"/>
-      <Column ss:AutoFitWidth="0" ss:Width="120"/>
-      <Column ss:AutoFitWidth="0" ss:Width="140"/>
-      <Column ss:AutoFitWidth="0" ss:Width="220"/>
-      <Column ss:AutoFitWidth="0" ss:Width="220"/>
-      <Column ss:AutoFitWidth="0" ss:Width="260"/>
-      <Column ss:AutoFitWidth="0" ss:Width="170"/>
-      <Column ss:AutoFitWidth="0" ss:Width="130"/>
-      <Column ss:AutoFitWidth="0" ss:Width="260"/>
-      <Row><Cell ss:StyleID="sHeader"><Data ss:Type="String">nome</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">endereco</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">telefone_nacional</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">telefone_internacional</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">site</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">instagram</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">maps_url</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">place_id</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">tipo_primario</Data></Cell><Cell ss:StyleID="sHeader"><Data ss:Type="String">tipos</Data></Cell></Row>
-      <Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Esfiha Mix Parelheiros</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Av. Sen. Teotônio Vilela, 8109 - Jardim Maria Fernandes, São Paulo - SP, 04858-480</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 3512-6780</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 3512-6780</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">http://bit.ly/EsfihaMixOficial</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=9465199945654249100&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJW2uh9SZJzpQRjKbEqDMlW4M</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pracinha Pizzaria e Restaurante - em Parelheiros</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Praça Júlio César de Campos - Parelheiros, São Paulo - SP, 04890-320</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 91736-3526</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 91736-3526</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://www.instagram.com/pracinharestaurante110?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=6159065981936367832&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJgU1ajYtJzpQR2HiC4eBleVU</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | brazilian_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Marques Pizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Daniel Mas, 260 - Parelheiros, São Paulo - SP, 04866-100</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94683-9884</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94683-9884</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13504246381266233427&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJX1BdTgVJzpQRU2i6Aom4aLs</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Mendes</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Rua Eloy Domingues da Silva, 75 - Jardim Novo Parelheiros, São Paulo - SP, 04890-185</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 98637-4688</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 98637-4688</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://app.cardapioweb.com/pizzaria_mendes</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=8223422744801876302&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJu_PtIcdJzpQRTpnItWp3H3I</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Dos Nonos</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Tomás Sandrino, 3 - Jardim do Centro, São Paulo - SP, 04888-030</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5921-4426</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5921-4426</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=7541758418710968836&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ0_rvQJFJzpQRBDoU6VK1qWg</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Buenos</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Rua Bento Pires de Moraes, 152 - Jardim Lidia Maria, Embu-Guaçu - SP, 06902-060</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 92194-9313</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 92194-9313</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://pedir.delivery/buenospizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=2630570033722044228&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJbeTq09NKzpQRRC_KIIKpgSQ</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizzaria nonna milla</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Amaro de Pontes, 760 - Parelheiros, São Paulo - SP, 04890-360</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 98437-6280</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 98437-6280</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=10716414907817419330&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJT7Lcqv9JzpQRQmIoppRauJQ</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Pane Saro Artesanal</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Prudente de Moraes, 185 - Vila Louro, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 93063-3944</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 93063-3944</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=10268847532844794352&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJKxnQhhBLzpQR8EHcp2xGgo4</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria e Confeitaria Pai &amp; Filho</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Humberto Ravello, 185 - Jardim do Centro, São Paulo - SP, 04888-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5920-8904</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5920-8904</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://bio.site/PaieFilho</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=5950987155748308752&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJBaz02ptJzpQREEdK2UknllI</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Elite Parelheiros</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estrada Engenheiro Marsilac, 880 - Jardim Novo Parelheiros, São Paulo - SP, 04891-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99765-2622</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99765-2622</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=5710769421823057698&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ95etgiVJzpQRIh_tPYi6QE8</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery | middle_eastern_restaurant | meal_delivery | food_delivery | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Vargem Grande</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Av. das Palmeiras, 159 - Colônia (Zona Sul), São Paulo - SP, 04895-340</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=1131729278541465456&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJK08mdMo3zpQRcIdfXci1tA8</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Vereda</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. São João, 23 - Parque Recreio, São Paulo - SP, 04891-310</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5926-8447</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5926-8447</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://www.instagram.com/pizzariavereda?r=nametag</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=15869063930071901258&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJYabUS_tJzpQRSmTmBZE9Otw</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Cantinho da Pizza</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 3994 - Chácara São Silvestre, São Paulo - SP, 04880-085</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 93297-1424</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 93297-1424</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://linktr.ee/cantinhodapizza_ofc</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=1512366227358326869&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJfawbg5dJzpQRVaD9JxIB_RQ</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Macedo</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, no 3090 - Chácara São Silvestre, São Paulo - SP, 04882-215</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 95677-8724</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 95677-8724</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13316825882623450917&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJe5LTGcFJzpQRJZ9_rZXezrg</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Herplin</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Av. Professor Hermógenes de Freitas Leitão Filho, 1957 - Parelheiros, São Paulo - SP, 04865-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 98990-4440</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 98990-4440</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13143602180145122409&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJpclF2RhJzpQRaYyZiIt0Z7Y</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Papaiô Gastronomia</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Henrique Roschel Christi, 114 - Jardim dos Alamos, São Paulo - SP, 04883-255</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94051-2543</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94051-2543</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://papaio.wabiz.delivery/</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=17817134350590428761&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ0UDu3QJJzpQRWUZa6kotQ_c</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | hamburger_restaurant | sushi_restaurant | brazilian_restaurant | japanese_restaurant | american_restaurant | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Romanesca Danny Sanches</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 6291 - Jardim Casa Grande, São Paulo - SP, 04890-380</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5920-4224</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5920-4224</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=1050805334270342410&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJP9uTaI5JzpQRCvVEVeI1lQ4</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Gostosuras da Tia Ci</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Condé Monte Real, 30 - Parelheiros, São Paulo - SP, 04890-580</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99137-1585</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99137-1585</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=11455012739952190679&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJQVZPJgBJzpQR16RsTmVh-J4</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">manufacturer</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">manufacturer | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">PIZZARIA SEVÊ</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Rua Bem Te Vi, 53 - Colônia (Zona Sul), São Paulo - SP, 04896-250</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96742-3963</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96742-3963</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://instadelivery.com.br/pizzariaseve</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=9596898255421875872&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJB-XNWco3zpQRoKb84x0IL4U</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Papai Noel &amp; conveniência</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Belém - Parelheiros, São Paulo - SP, 04855-465</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=7988270622193140531&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJe-HtSABJzpQRM8OCpc4J3G4</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery | meal_delivery | food_delivery | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Verçosa</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Carlos Rasquinho, 597 - Colônia (Zona Sul), São Paulo - SP, 04892-140</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5544-0758</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5544-0758</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=1516387825137791898&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJyexD-M83zpQRmrMQW7FKCxU</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | fast_food_restaurant | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Império da pizza</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ZAP (13)99704-5637 - R. Alessandro Antoniano, 128 - Vila Roschel, São Paulo - SP, 04891-120</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 93470-2174</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 93470-2174</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=3270266081021213074&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ7fA4k-pJzpQRkjlHkKxRYi0</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Central Da Esfiha</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Parelheiros, São Paulo - SP, 03703-120, Brasil</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=10015121753402827642&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ9xM48TNIzpQReuPcHSzc_Io</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Japa Pizza</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Manoel Pires De Moraes, 55 - Jardim Brasil, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94469-4351</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94469-4351</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=11686546306425491315&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJm3qxpSRLzpQRcw-lnfLzLqI</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Bueno&apos;s Pizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Jardim Valflor, Embu-Guaçu - SP, 06900-445, Brasil</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=79866366328647740&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJYbWIQDdLzpQRPDCFegm-GwE</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria BonaMassa</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. da Rosas, 27 - antiga 52 - Colônia (Zona Sul), São Paulo - SP, 04895-270</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99753-3454</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99753-3454</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=18235143985386781119&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ09TkryU3zpQRv3kUPdc-EP0</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery | meal_delivery | food_delivery | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Casa Grande</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Atendimento Via WhatsApp - Av. Professor Hermógenes de Freitas Leitão Filho, 65(11 - 95690-0927 - Parelheiros, São Paulo - SP, 04865-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96219-7787</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96219-7787</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://instadelivery.com.br/casagrande</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=2938349344204031450&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJh4ibkTFJzpQR2oVIFykdxyg</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Esperança</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Av. das Palmeiras, 20b - Vargem Grande - Parelheiros, São Paulo - SP, 04895-340</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99600-5074</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99600-5074</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=11969828311468144224&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJLdtBi4A3zpQRYPZ4L25fHaY</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">italian_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">italian_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Ponto Vip</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Pedro Roschel, 98 - Parelheiros, São Paulo - SP, 04890-070</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94165-6635</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94165-6635</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=2720720112048577549&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJt0s6tJBJzpQRDZzq44bwwSU</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | liquor_store | cocktail_bar | bar | store | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Bom gosto pizzaria e esfiharia</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Rua Henrique Muzzio, 150 - Jardim Varginha, São Paulo - SP, 04857-040</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5526-5057</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5526-5057</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=17137903038132993428&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJX4CMJY5IzpQRlD0BPwMQ1u0</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">A Pizzelle</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Santo Antônio, 459 - Vila Louro, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 91079-5757</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 91079-5757</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=6914242836525754166&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJQSf4W661z5QRNifoATpT9F8</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Lua Nova</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Embu Guaçu, Embu-Guaçu - SP, 06900-000, Brasil</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 4661-3442</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 4661-3442</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=14825609190264573643&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJZTDj4CZLzpQRy458VAIlv80</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">TEXAS PUB - Pizzaria &amp; Petiscos</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Maria das Dores Delfim, 73 - Vila Louro, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 97227-6670</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 97227-6670</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=4942852111796412388&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJpRDrwbBLzpQR5B_qrM6JmEQ</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Padaria Coração de Ouro</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 7000 - Parelheiros, São Paulo - SP, 04890-380</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5920-8032</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5920-8032</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13038700379967864175&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJTaf045RJzpQRbz284OnE8rQ</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">bakery</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">bakery | food_store | store | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Art&apos;Sabor</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 6151 - Parelheiros, São Paulo - SP, 04883-065</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 97412-7949</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 97412-7949</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=12656905394132067517&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ5632Vk9JzpQRvaT3lGVcpq8</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_delivery | meal_delivery | food_delivery | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Paloma</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. José Roschel Rodrigues, 161 - Recanto Campo Belo, São Paulo - SP, 04880-130</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94616-9732</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94616-9732</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://g.page/r/CUOsrQimePybEBA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=11239991424515419203&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJyU1HANhJzpQRQ6ytCKZ4_Js</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Ja pão pizzaria Esfhiharia e restaurante</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Silvio, 3522-3560 - 3522-3560 - Jardim Almeida, São Paulo - SP, 04866-190</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 97519-3576</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 97519-3576</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.wabiz.delivery.japaopizzariaeesfiharia</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=12449593430703461205&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJIWubpW1JzpQRVdMds0PXxaw</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Donittus</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Associação Cristã Feminina, 54 - Centro, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 4662-5606</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 4662-5606</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=5709287240763285307&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJqUo4MSVLzpQRO59dEn92O08</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">PIZZARIA DI ROMA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Domênico Lanzeti, 107 - São noberto, São Paulo - SP, 04884-210</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99186-0198</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99186-0198</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://diroma.app.br/</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=17813283104368400252&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJQVTwrzVIzpQRfJdYx5p-Nfc</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | middle_eastern_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Bragueto’s Restaurante &amp; Pizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Brasil, 96 - Centro, Embu-Guaçu - SP, 06900-465</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://app.cardapioweb.com/braguetos_restaurante_e_pizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=5586887041712792598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJQQWBqSRLzpQRFiSG8SmciE0</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Familiar</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Andréas Romberg, 131 - Jardim Silveira, São Paulo - SP, 04892-090</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96360-5310</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96360-5310</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=16983086986878889746&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJEXHh_zE2zpQREq95YqILsOs</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">food</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">food | point_of_interest | service | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria da Helo</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. João Pereira Rodrigues Filho, 215 - Jardim Boa Vista, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 91021-6835</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 91021-6835</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=17153656251788055165&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJycHwWA1LzpQRfVL8HnoHDu4</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Bella Pizza</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Bella Pizza - Parque Recreio, São Paulo - SP, 04891-230</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99543-1946</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99543-1946</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://wa.me/5511995431946</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13596587618381298638&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJA7QbhuNJzpQRznsXr2bIsLw</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Bom Jesus 1</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Maria da Costa Bezerra, 740 - Recanto Campo Belo, São Paulo - SP, 04880-050</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94035-0807</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94035-0807</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://pizzariabomjesus.wabiz.delivery/</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=12143455497197588318&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJOeMy3U1JzpQRXg86mG84hqg</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | middle_eastern_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Flash pizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Índio do Brasil - Jardim Almeida, São Paulo - SP, 04866-220</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 92675-6747</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 92675-6747</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=16634833956278596443&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJKwjYnQNJzpQRW3OXHVnN2uY</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">1996 Pizzaria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Rio de Janeiro, 53 - Vila Roschel, São Paulo - SP, 05848-160</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 99003-5134</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 99003-5134</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=10811451199221095002&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJf6bMp89TzpQRWloLjJX9CZY</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | pizza_delivery | meal_delivery | food_delivery | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Borda Recheada</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Baltazarini, 08 - Recanto Campo Belo, São Paulo - SP, 04880-150</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5599-6502</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5599-6502</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://bit.ly/38GZa2p</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=5058302112635514491&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ5e-mpnJJzpQRe24_rviyMkY</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Numbaira Restaurante</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Boa Vista, 222 - Centro, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 4661-1469</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 4661-1469</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://instagram.com/pizzarianumbaira?igshid=MzRlODBiNWFlZA==</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=966313169432139193&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJoVHiujpLzpQRudXINbUIaQ0</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Grandini III Vargem Grande</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Av. Noel Nutels, 22 - Jardim Santa Terezinha (Parelheiros), São Paulo - SP, 04896-092</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5920-4600</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5920-4600</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=12392129934695901826&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJv6X0Ur03zpQRgqoI8ISw-as</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Bom Gosto Pizzaria &amp; Esfharia</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Parque Tamari, São Paulo - SP, 04890-320, Brasil</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96849-0213</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96849-0213</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=9537447113185897885&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJ2XUz4ZRJzpQRnS2FLZ7RW4Q</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Gamberini</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Antônio Afonso, 393 - Embu Guaçu, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 4664-5116</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 4664-5116</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=3064048986845348564&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJJXys-H1LzpQR1AJQy1GwhSo</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Isabelly II</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Rua Amélia Petrela Zuanazzi - Parelheiros, São Paulo - SP, 04880-250</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96850-7106</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96850-7106</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13191000104230852928&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJA99rxvlJzpQRQBnStLTYD7c</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Bom Sabor</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. do Filipinho - Filipinho, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96413-1781</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96413-1781</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=4087732292762554981&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJNyPLGq60z5QRZVIBz9yKujg</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizza Planet</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Nossa Sra. de Fátima, 413 - Centro, Embu-Guaçu - SP, 06900-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96406-8975</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96406-8975</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://pizzaplanet.pedir.app/</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=11060302260452316596&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJnQ6nSrJLzpQRtNW1Tk4Wfpk</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Nossa Praça Hambúrgueria</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Praça Júlio César de Campos - Parque Tamari, São Paulo - SP, 04890-320</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 95214-8988</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 95214-8988</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=13047891060999200136&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJC-fta-JJzpQRiB3aDsprE7U</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">snack_bar</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">snack_bar | meal_takeaway | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Pizzaria Amada</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Baltazarini, 07 - Recanto Campo Belo, São Paulo - SP, 04880-150</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 96569-8644</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 96569-8644</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=15245485477485506475&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJW1LrX2RJzpQRq2_miUTYktM</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Tiozao Frango Frito</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Galo de Campina, 03 - Novo são norberto, São Paulo - SP, 04884-000</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 97366-3283</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 97366-3283</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=4516132911246333796&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJWY3QGRlJzpQRZNdJjfSGrD4</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">La Bodeguita Pizzaria - CPTM Coastline</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. da Barragem, 789 - Colônia, São Paulo - SP, 04895-020</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94305-8638</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94305-8638</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://pedyo.com/labodeguita</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=11646759097117776499&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJsTGmqEY5zpQRcxpBELGZoaE</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Restaurante da Marlene</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 6455 - Parelheiros, São Paulo - SP, 04890-380</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 94182-8705</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 94182-8705</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=17668775995347799447&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJZwLFH5VJzpQRl42nkicaNPU</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">brazilian_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">brazilian_restaurant | buffet_restaurant | restaurant | food | point_of_interest | establishment</Data></Cell></Row>
-<Row><Cell ss:StyleID="sWrap"><Data ss:Type="String">Esfiharia e Pizzaria La Chácara</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">R. Orestes de Souza Figueiredo, N° 77 - Chácara Eldorado Parelheiros, São Paulo - SP, 04890-480</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">(11) 5921-2864</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">+55 11 5921-2864</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">https://maps.google.com/?cid=7756664032053716746&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">ChIJF0pk4gVJzpQRCmecMNc0pWs</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant</Data></Cell><Cell ss:StyleID="sWrap"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data></Cell></Row>
-    </Table>
-  </Worksheet>
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Helio Rodrigues da Franca</LastAuthor>
+  <LastSaved>2026-03-31T10:19:06Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7710</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64" ss:Name="Hyperlink">
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#467886" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior ss:Color="#D9E1F2" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67" ss:Parent="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s71" ss:Parent="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s72">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Resultados">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Resultados!R1C1:R61C10"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="61" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Column ss:AutoFitWidth="0" ss:Width="220"/>
+   <Column ss:AutoFitWidth="0" ss:Width="360"/>
+   <Column ss:AutoFitWidth="0" ss:Width="120"/>
+   <Column ss:AutoFitWidth="0" ss:Width="140"/>
+   <Column ss:AutoFitWidth="0" ss:Width="220" ss:Span="1"/>
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="260"/>
+   <Column ss:AutoFitWidth="0" ss:Width="170"/>
+   <Column ss:AutoFitWidth="0" ss:Width="130"/>
+   <Column ss:AutoFitWidth="0" ss:Width="260"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nome</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">endereco</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">telefone_nacional</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">telefone_internacional</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">site</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">instagram</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">maps_url</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">place_id</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tipo_primario</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tipos</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5" ss:StyleID="s68">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pracinha Pizzaria e Restaurante - em Parelheiros</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Praça Júlio César de Campos - Parelheiros, São Paulo - SP, 04890-320</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">(11) 91736-3526</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">+55 11 91736-3526</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67" ss:HRef="https://www.instagram.com/pracinharestaurante110?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw=="><Data
+      ss:Type="String">https://www.instagram.com/pracinharestaurante110?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">https://maps.google.com/?cid=6159065981936367832&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ChIJgU1ajYtJzpQR2HiC4eBleVU</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">pizza_restaurant | brazilian_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5" ss:StyleID="s68">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pizzaria Vereda</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">R. São João, 23 - Parque Recreio, São Paulo - SP, 04891-310</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">(11) 5926-8447</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">+55 11 5926-8447</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67" ss:HRef="https://www.instagram.com/pizzariavereda?r=nametag"><Data
+      ss:Type="String">https://www.instagram.com/pizzariavereda?r=nametag</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">https://maps.google.com/?cid=15869063930071901258&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ChIJYabUS_tJzpQRSmTmBZE9Otw</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5" ss:StyleID="s72">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Bella Pizza</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Bella Pizza - Parque Recreio, São Paulo - SP, 04891-230</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">(11) 99543-1946</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">+55 11 99543-1946</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71" ss:HRef="https://wa.me/5511995431946"><Data
+      ss:Type="String">https://wa.me/5511995431946</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">https://maps.google.com/?cid=13596587618381298638&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ChIJA7QbhuNJzpQRznsXr2bIsLw</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5" ss:StyleID="s72">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Ja pão pizzaria Esfhiharia e restaurante</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">R. Silvio, 3522-3560 - 3522-3560 - Jardim Almeida, São Paulo - SP, 04866-190</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">(11) 97519-3576</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">+55 11 97519-3576</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.wabiz.delivery.japaopizzariaeesfiharia</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">https://maps.google.com/?cid=12449593430703461205&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ChIJIWubpW1JzpQRVdMds0PXxaw</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Bom Jesus 1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Maria da Costa Bezerra, 740 - Recanto Campo Belo, São Paulo - SP, 04880-050</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94035-0807</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94035-0807</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://pizzariabomjesus.wabiz.delivery/</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=12143455497197588318&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJOeMy3U1JzpQRXg86mG84hqg</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | middle_eastern_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizza Planet</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Nossa Sra. de Fátima, 413 - Centro, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96406-8975</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96406-8975</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://pizzaplanet.pedir.app/</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=11060302260452316596&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJnQ6nSrJLzpQRtNW1Tk4Wfpk</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">La Bodeguita Pizzaria - CPTM Coastline</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. da Barragem, 789 - Colônia, São Paulo - SP, 04895-020</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94305-8638</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94305-8638</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://pedyo.com/labodeguita</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=11646759097117776499&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJsTGmqEY5zpQRcxpBELGZoaE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Buenos</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Rua Bento Pires de Moraes, 152 - Jardim Lidia Maria, Embu-Guaçu - SP, 06902-060</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 92194-9313</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 92194-9313</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://pedir.delivery/buenospizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=2630570033722044228&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJbeTq09NKzpQRRC_KIIKpgSQ</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="58">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Papaiô Gastronomia</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Henrique Roschel Christi, 114 - Jardim dos Alamos, São Paulo - SP, 04883-255</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94051-2543</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94051-2543</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://papaio.wabiz.delivery/</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=17817134350590428761&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ0UDu3QJJzpQRWUZa6kotQ_c</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | hamburger_restaurant | sushi_restaurant | brazilian_restaurant | japanese_restaurant | american_restaurant | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cantinho da Pizza</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 3994 - Chácara São Silvestre, São Paulo - SP, 04880-085</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 93297-1424</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 93297-1424</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://linktr.ee/cantinhodapizza_ofc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=1512366227358326869&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJfawbg5dJzpQRVaD9JxIB_RQ</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Numbaira Restaurante</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Boa Vista, 222 - Centro, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 4661-1469</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 4661-1469</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://instagram.com/pizzarianumbaira?igshid=MzRlODBiNWFlZA==</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=966313169432139193&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJoVHiujpLzpQRudXINbUIaQ0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PIZZARIA SEVÊ</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Rua Bem Te Vi, 53 - Colônia (Zona Sul), São Paulo - SP, 04896-250</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96742-3963</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96742-3963</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://instadelivery.com.br/pizzariaseve</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=9596898255421875872&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJB-XNWco3zpQRoKb84x0IL4U</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Casa Grande</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Atendimento Via WhatsApp - Av. Professor Hermógenes de Freitas Leitão Filho, 65(11 - 95690-0927 - Parelheiros, São Paulo - SP, 04865-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96219-7787</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96219-7787</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://instadelivery.com.br/casagrande</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=2938349344204031450&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJh4ibkTFJzpQR2oVIFykdxyg</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Paloma</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. José Roschel Rodrigues, 161 - Recanto Campo Belo, São Paulo - SP, 04880-130</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94616-9732</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94616-9732</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://g.page/r/CUOsrQimePybEBA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=11239991424515419203&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJyU1HANhJzpQRQ6ytCKZ4_Js</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PIZZARIA DI ROMA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Domênico Lanzeti, 107 - São noberto, São Paulo - SP, 04884-210</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 99186-0198</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 99186-0198</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://diroma.app.br/</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=17813283104368400252&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJQVTwrzVIzpQRfJdYx5p-Nfc</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | middle_eastern_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Borda Recheada</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Baltazarini, 08 - Recanto Campo Belo, São Paulo - SP, 04880-150</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5599-6502</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5599-6502</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://bit.ly/38GZa2p</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=5058302112635514491&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ5e-mpnJJzpQRe24_rviyMkY</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria e Confeitaria Pai &amp; Filho</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Humberto Ravello, 185 - Jardim do Centro, São Paulo - SP, 04888-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5920-8904</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5920-8904</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://bio.site/PaieFilho</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=5950987155748308752&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJBaz02ptJzpQREEdK2UknllI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Mendes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Rua Eloy Domingues da Silva, 75 - Jardim Novo Parelheiros, São Paulo - SP, 04890-185</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 98637-4688</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 98637-4688</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://app.cardapioweb.com/pizzaria_mendes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=8223422744801876302&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJu_PtIcdJzpQRTpnItWp3H3I</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bragueto’s Restaurante &amp; Pizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Brasil, 96 - Centro, Embu-Guaçu - SP, 06900-465</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://app.cardapioweb.com/braguetos_restaurante_e_pizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=5586887041712792598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJQQWBqSRLzpQRFiSG8SmciE0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Esfiha Mix Parelheiros</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Av. Sen. Teotônio Vilela, 8109 - Jardim Maria Fernandes, São Paulo - SP, 04858-480</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 3512-6780</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 3512-6780</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://bit.ly/EsfihaMixOficial</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=9465199945654249100&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJW2uh9SZJzpQRjKbEqDMlW4M</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Marques Pizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Daniel Mas, 260 - Parelheiros, São Paulo - SP, 04866-100</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94683-9884</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94683-9884</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=13504246381266233427&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJX1BdTgVJzpQRU2i6Aom4aLs</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Dos Nonos</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Tomás Sandrino, 3 - Jardim do Centro, São Paulo - SP, 04888-030</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5921-4426</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5921-4426</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=7541758418710968836&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ0_rvQJFJzpQRBDoU6VK1qWg</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizzaria nonna milla</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Amaro de Pontes, 760 - Parelheiros, São Paulo - SP, 04890-360</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 98437-6280</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 98437-6280</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=10716414907817419330&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJT7Lcqv9JzpQRQmIoppRauJQ</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Pane Saro Artesanal</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Prudente de Moraes, 185 - Vila Louro, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 93063-3944</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 93063-3944</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=10268847532844794352&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJKxnQhhBLzpQR8EHcp2xGgo4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Elite Parelheiros</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estrada Engenheiro Marsilac, 880 - Jardim Novo Parelheiros, São Paulo - SP, 04891-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 99765-2622</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 99765-2622</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=5710769421823057698&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ95etgiVJzpQRIh_tPYi6QE8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery | middle_eastern_restaurant | meal_delivery | food_delivery | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Vargem Grande</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Av. das Palmeiras, 159 - Colônia (Zona Sul), São Paulo - SP, 04895-340</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=1131729278541465456&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJK08mdMo3zpQRcIdfXci1tA8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Macedo</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, no 3090 - Chácara São Silvestre, São Paulo - SP, 04882-215</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 95677-8724</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 95677-8724</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=13316825882623450917&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJe5LTGcFJzpQRJZ9_rZXezrg</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Herplin</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Av. Professor Hermógenes de Freitas Leitão Filho, 1957 - Parelheiros, São Paulo - SP, 04865-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 98990-4440</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 98990-4440</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=13143602180145122409&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJpclF2RhJzpQRaYyZiIt0Z7Y</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Romanesca Danny Sanches</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 6291 - Jardim Casa Grande, São Paulo - SP, 04890-380</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5920-4224</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5920-4224</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=1050805334270342410&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJP9uTaI5JzpQRCvVEVeI1lQ4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Gostosuras da Tia Ci</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Condé Monte Real, 30 - Parelheiros, São Paulo - SP, 04890-580</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 99137-1585</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 99137-1585</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=11455012739952190679&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJQVZPJgBJzpQR16RsTmVh-J4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">manufacturer</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">manufacturer | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Papai Noel &amp; conveniência</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Belém - Parelheiros, São Paulo - SP, 04855-465</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=7988270622193140531&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJe-HtSABJzpQRM8OCpc4J3G4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery | meal_delivery | food_delivery | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Verçosa</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Carlos Rasquinho, 597 - Colônia (Zona Sul), São Paulo - SP, 04892-140</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5544-0758</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5544-0758</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=1516387825137791898&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJyexD-M83zpQRmrMQW7FKCxU</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | fast_food_restaurant | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Império da pizza</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ZAP (13)99704-5637 - R. Alessandro Antoniano, 128 - Vila Roschel, São Paulo - SP, 04891-120</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 93470-2174</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 93470-2174</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=3270266081021213074&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ7fA4k-pJzpQRkjlHkKxRYi0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Central Da Esfiha</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Parelheiros, São Paulo - SP, 03703-120, Brasil</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=10015121753402827642&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ9xM48TNIzpQReuPcHSzc_Io</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Japa Pizza</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Manoel Pires De Moraes, 55 - Jardim Brasil, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94469-4351</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94469-4351</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=11686546306425491315&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJm3qxpSRLzpQRcw-lnfLzLqI</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bueno's Pizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jardim Valflor, Embu-Guaçu - SP, 06900-445, Brasil</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=79866366328647740&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJYbWIQDdLzpQRPDCFegm-GwE</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria BonaMassa</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. da Rosas, 27 - antiga 52 - Colônia (Zona Sul), São Paulo - SP, 04895-270</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 99753-3454</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 99753-3454</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=18235143985386781119&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ09TkryU3zpQRv3kUPdc-EP0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery | meal_delivery | food_delivery | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Esperança</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Av. das Palmeiras, 20b - Vargem Grande - Parelheiros, São Paulo - SP, 04895-340</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 99600-5074</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 99600-5074</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=11969828311468144224&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJLdtBi4A3zpQRYPZ4L25fHaY</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">italian_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">italian_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ponto Vip</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Pedro Roschel, 98 - Parelheiros, São Paulo - SP, 04890-070</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94165-6635</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94165-6635</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=2720720112048577549&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJt0s6tJBJzpQRDZzq44bwwSU</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | liquor_store | cocktail_bar | bar | store | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bom gosto pizzaria e esfiharia</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Rua Henrique Muzzio, 150 - Jardim Varginha, São Paulo - SP, 04857-040</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5526-5057</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5526-5057</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=17137903038132993428&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJX4CMJY5IzpQRlD0BPwMQ1u0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A Pizzelle</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Santo Antônio, 459 - Vila Louro, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 91079-5757</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 91079-5757</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=6914242836525754166&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJQSf4W661z5QRNifoATpT9F8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Lua Nova</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Embu Guaçu, Embu-Guaçu - SP, 06900-000, Brasil</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 4661-3442</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 4661-3442</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=14825609190264573643&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJZTDj4CZLzpQRy458VAIlv80</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TEXAS PUB - Pizzaria &amp; Petiscos</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Maria das Dores Delfim, 73 - Vila Louro, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 97227-6670</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 97227-6670</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=4942852111796412388&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJpRDrwbBLzpQR5B_qrM6JmEQ</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Padaria Coração de Ouro</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 7000 - Parelheiros, São Paulo - SP, 04890-380</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5920-8032</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5920-8032</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=13038700379967864175&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJTaf045RJzpQRbz284OnE8rQ</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">bakery</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">bakery | food_store | store | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Art'Sabor</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 6151 - Parelheiros, São Paulo - SP, 04883-065</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 97412-7949</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 97412-7949</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=12656905394132067517&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ5632Vk9JzpQRvaT3lGVcpq8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_delivery | meal_delivery | food_delivery | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Donittus</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Associação Cristã Feminina, 54 - Centro, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 4662-5606</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 4662-5606</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=5709287240763285307&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJqUo4MSVLzpQRO59dEn92O08</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Familiar</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Andréas Romberg, 131 - Jardim Silveira, São Paulo - SP, 04892-090</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96360-5310</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96360-5310</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=16983086986878889746&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJEXHh_zE2zpQREq95YqILsOs</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">food</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">food | point_of_interest | service | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria da Helo</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. João Pereira Rodrigues Filho, 215 - Jardim Boa Vista, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 91021-6835</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 91021-6835</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=17153656251788055165&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJycHwWA1LzpQRfVL8HnoHDu4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Flash pizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Índio do Brasil - Jardim Almeida, São Paulo - SP, 04866-220</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 92675-6747</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 92675-6747</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=16634833956278596443&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJKwjYnQNJzpQRW3OXHVnN2uY</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1996 Pizzaria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Rio de Janeiro, 53 - Vila Roschel, São Paulo - SP, 05848-160</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 99003-5134</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 99003-5134</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=10811451199221095002&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJf6bMp89TzpQRWloLjJX9CZY</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | pizza_delivery | meal_delivery | food_delivery | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Grandini III Vargem Grande</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Av. Noel Nutels, 22 - Jardim Santa Terezinha (Parelheiros), São Paulo - SP, 04896-092</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5920-4600</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5920-4600</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=12392129934695901826&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJv6X0Ur03zpQRgqoI8ISw-as</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bom Gosto Pizzaria &amp; Esfharia</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Parque Tamari, São Paulo - SP, 04890-320, Brasil</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96849-0213</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96849-0213</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=9537447113185897885&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJ2XUz4ZRJzpQRnS2FLZ7RW4Q</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Gamberini</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Antônio Afonso, 393 - Embu Guaçu, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 4664-5116</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 4664-5116</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=3064048986845348564&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJJXys-H1LzpQR1AJQy1GwhSo</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Isabelly II</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Rua Amélia Petrela Zuanazzi - Parelheiros, São Paulo - SP, 04880-250</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96850-7106</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96850-7106</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=13191000104230852928&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJA99rxvlJzpQRQBnStLTYD7c</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Bom Sabor</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. do Filipinho - Filipinho, Embu-Guaçu - SP, 06900-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96413-1781</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96413-1781</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=4087732292762554981&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJNyPLGq60z5QRZVIBz9yKujg</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nossa Praça Hambúrgueria</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Praça Júlio César de Campos - Parque Tamari, São Paulo - SP, 04890-320</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 95214-8988</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 95214-8988</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=13047891060999200136&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJC-fta-JJzpQRiB3aDsprE7U</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">snack_bar</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">snack_bar | meal_takeaway | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pizzaria Amada</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Baltazarini, 07 - Recanto Campo Belo, São Paulo - SP, 04880-150</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 96569-8644</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 96569-8644</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=15245485477485506475&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJW1LrX2RJzpQRq2_miUTYktM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tiozao Frango Frito</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Galo de Campina, 03 - Novo são norberto, São Paulo - SP, 04884-000</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 97366-3283</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 97366-3283</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=4516132911246333796&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJWY3QGRlJzpQRZNdJjfSGrD4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Restaurante da Marlene</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Estr. Ecoturística de Parelheiros, 6455 - Parelheiros, São Paulo - SP, 04890-380</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 94182-8705</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 94182-8705</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=17668775995347799447&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJZwLFH5VJzpQRl42nkicaNPU</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">brazilian_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">brazilian_restaurant | buffet_restaurant | restaurant | food | point_of_interest | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="43.5">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Esfiharia e Pizzaria La Chácara</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">R. Orestes de Souza Figueiredo, N° 77 - Chácara Eldorado Parelheiros, São Paulo - SP, 04890-480</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">(11) 5921-2864</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">+55 11 5921-2864</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">https://maps.google.com/?cid=7756664032053716746&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ChIJF0pk4gVJzpQRCmecMNc0pWs</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pizza_restaurant | restaurant | point_of_interest | food | establishment</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R61C10"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
 </Workbook>
