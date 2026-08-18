@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "codegen": "playwright codegen --target java --channel chrome https://web.whatsapp.com",
+    "codegen:install": "playwright install chromium"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}

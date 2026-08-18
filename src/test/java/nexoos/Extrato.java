@@ -38,7 +38,7 @@ public class Extrato {
         page.getByText("Entrar").click();
         page.waitForTimeout(3000);
         page.navigate("https://investimento.nexoos.com.br/operacoes-financeiras/extrato");
-        page.waitForTimeout(2000);
+        page.waitForTimeout(5000);
         // Localiza o grupo de elementos
         Locator buttons = page.getByTestId("AddIcon");
 
